@@ -7,16 +7,16 @@ title: My website
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Alex Dumont
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -38,13 +38,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "adumont@gmail.com"
+  github: adumont
+  twitter: adumont
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
