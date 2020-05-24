@@ -7,6 +7,6 @@ update:
 	bundle update
 
 serve:
-	bundle exec jekyll serve --incremental
+	bundle exec jekyll serve
 
 .PHONY: all install update serve
