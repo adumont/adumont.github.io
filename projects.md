@@ -22,6 +22,8 @@ This page is a work in progress, as most of the projects listed here...
   - The CPU is synthesizable in FPGA, like the icezum Alhambra, or the ice40hx1k/8k.
   - A GUI developped in QT allows to run the code in the CPU step by step, and introspect every aspect of the CPU (registers,...)
 
+![](https://pbs.twimg.com/media/EYFBDGVXsAAK0z5?format=jpg&name=small)
+
 - [DRAM module driven by Arduino](https://github.com/adumont/dram)
 
 ![](https://github.com/adumont/dram/raw/master/pics/4images.jpg)
