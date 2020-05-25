@@ -3,6 +3,7 @@ layout: page
 title: My projects
 subtitle: Some of my projects over the years
 published: true
+comments: true
 ---
 
 This page is a work in progress, as most of the projects listed here...
