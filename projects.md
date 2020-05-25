@@ -25,7 +25,7 @@ This page is a work in progress, as most of the projects listed here...
 
 ![](https://github.com/adumont/dram/raw/master/pics/4images.jpg)
 
-- [FPGA, Font, FIFO & VGA](https://github.com/adumont/fpga-font): project about playing with a font, VGA and FPGA, shows the content of a couple of FIFO on the screen. The project is meant to be integrated one day into HRMCPU to show the state of the inbox/outbox on a VGA screen
+- [FPGA, Font, FIFO & VGA](https://github.com/adumont/fpga-font): project about playing with a font, VGA and FPGA, shows the content of a couple of FIFO on the screen. The project is meant to be integrated one day into HRMCPU to show the state of the inbox/outbox on a VGA screen. Using Yaml, Mustache and python to automatically generate the VGA modules in Verilog from templates and configuration.
 
 - [CellularAutomaton](https://github.com/adumont/CellularAutomaton): several implementations of Cellular Automaton, in Logisim, IceStudio, and Verilog, synthesizable in the icezum Alhambra FPGA. Displays on leds, or VGA screen. See this Twitter Moment: [FPGA Project 2 - Cellular Automaton to VGA / Twitter](https://twitter.com/i/events/955588183252701184)
 
