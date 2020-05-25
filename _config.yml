@@ -39,17 +39,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "adumont@gmail.com"
-  github: adumont
   twitter: adumont
+  github: adumont
+  linkedin: alexandredumont
+  youtube: user/adumont
   rss: true
+#  email: "adumont@gmail.com"
 #  reddit: yourname
-#  linkedin: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -103,7 +103,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-75609256-4"
 
 # Google Tag Manager ID
 #gtm: ""
