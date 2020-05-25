@@ -206,6 +206,7 @@ exclude:
 
 plugins:
   - jekyll-paginate-v2
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali

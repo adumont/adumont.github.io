@@ -4,6 +4,8 @@ title: My projects
 subtitle: Some of my projects over the years
 published: true
 comments: true
+redirect_from:
+  - /projects/
 ---
 
 This page is a work in progress, as most of the projects listed here...
