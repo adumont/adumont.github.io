@@ -14,7 +14,7 @@ This page is a work in progress, as most of the projects listed here... These pr
 
 ![](https://github.com/adumont/ad6502/raw/master/assets/gui/vokoscreen-2020-05-24_15-01-50.gif)
 
-- [ADTools MakeCode extension](https://adumont.github.io/pxt-ADTools/)
+- [ADTools extension for MakeCode Beta](https://adumont.github.io/pxt-ADTools/)
 
 ![](https://github.com/adumont/test-extension/raw/master/.github/makecode/blocks.png)
 
@@ -34,6 +34,8 @@ This page is a work in progress, as most of the projects listed here... These pr
 - [Divide by 3 in Binary (+ Verilog code)](https://telegra.ph/Divide-by-3-in-Binary-Verilog-05-02)
 
 ![](https://telegra.ph/file/12589033ac77a274052a7.png)
+
+- [adumont/jetson-nano](https://github.com/adumont/jetson-nano/blob/master/README.md): Tools and scripts to setup several things on the Nvidia Jetson Nano Dev board (Fast.ai, OpenCV, TensorFlow,...). Includes prebuilt python whl files for faster install (no need to rebuild wheels).
 
 - [CellularAutomaton](https://github.com/adumont/CellularAutomaton): several implementations of Cellular Automaton, in Logisim, IceStudio, and Verilog, synthesizable in the icezum Alhambra FPGA. Displays on leds, or VGA screen. See this Twitter Moment: [FPGA Project 2 - Cellular Automaton to VGA / Twitter](https://twitter.com/i/events/955588183252701184)
 
