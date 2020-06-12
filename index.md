@@ -14,7 +14,7 @@ This page is a work in progress, as most of the projects listed here... These pr
 
 ![](https://github.com/adumont/ad6502/raw/master/assets/gui/vokoscreen-2020-05-24_15-01-50.gif)
 
-- [ADTools extension for MakeCode Beta](https://adumont.github.io/pxt-ADTools/)
+- [ADTools extension for MakeCode](https://adumont.github.io/pxt-ADTools/). The extension offers new blocks to pack/unpack several numbers into/from a string, useful to send/receive multiple sensors reading in one radio message.
 
 ![](https://github.com/adumont/test-extension/raw/master/.github/makecode/blocks.png)
 
