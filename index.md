@@ -41,7 +41,7 @@ This page is a work in progress, as most of the projects listed here... These pr
 
 ![](https://pbs.twimg.com/media/DUQ6faiWsAIc3DO?format=png&name=small)
 
-- [tplink-cloud-api](https://github.com/adumont/tplink-cloud-api): A npm module to control the TP-Link HS100 (and alike) smart switch, smart bulbs,... using TP-Link unpublish cloud API (reversed engineer). Written in node.js/NPM.
+- <a name="tplink-cloud-api"></a>[tplink-cloud-api](https://github.com/adumont/tplink-cloud-api): A npm module to control the TP-Link HS100 (and alike) smart switch, smart bulbs,... using TP-Link unpublish cloud API (reversed engineer). Written in node.js/NPM.
 
 - 4 wheels robot
 
