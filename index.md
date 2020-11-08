@@ -10,7 +10,11 @@ redirect_from:
 
 This page is a work in progress, as most of the projects listed here... These projects and articles are hobbies I spend my free time on.
 
-- [AD6502](https://github.com/adumont/ad6502), a project with a 6502 core, a QT GUI, ram/rom and GPIO, in the icezum Alhambra FPGA
+- [Mega6502](https://github.com/adumont/mega6502), a breadboard project about driving a 6502 hardcode processor with an Arduino Mega acting as clock, rom and ram, with a homemade python disassembler that decode the running instructions on the fly.
+
+![](https://github.com/adumont/mega6502/raw/main/imgs/mega6502.jpg)
+
+- [AD6502](https://github.com/adumont/ad6502), a project with a Verilog 6502 softcore, a QT GUI, ram/rom and GPIO, in the icezum Alhambra FPGA
 
 ![](https://github.com/adumont/ad6502/raw/master/assets/gui/vokoscreen-2020-05-24_15-01-50.gif)
 
