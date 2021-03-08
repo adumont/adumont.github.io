@@ -10,6 +10,10 @@ redirect_from:
 
 This page is a work in progress, as most of the projects listed here... These projects and articles are hobbies I spend my free time on.
 
+- [Breadboard EEPROM Programmer](https://github.com/adumont/mega6502/tree/main/programmer#how-to-use): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
+
+![](https://github.com/adumont/mega6502/raw/main/imgs/programmer.jpg)
+
 - [Mega6502](https://github.com/adumont/mega6502), a breadboard project about driving a 6502 hardcode processor with an Arduino Mega acting as clock, rom and ram, with a homemade python disassembler that decode the running instructions on the fly.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/mega6502.jpg)
