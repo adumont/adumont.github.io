@@ -14,7 +14,7 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
 
-- [Breadboard EEPROM Programmer](https://github.com/adumont/mega6502/tree/main/programmer#how-to-use): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
+- [Breadboard EEPROM Programmer](https://github.com/adumont/hb6502/tree/main/programmer#breadboard-eeprom-programmer): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/programmer.jpg)
 
