@@ -8,7 +8,11 @@ redirect_from:
   - /projects/
 ---
 
-This page is a work in progress, as most of the projects listed here... These projects and articles are hobbies I spend my free time on.
+These projects and articles are hobbies I spend (or have spent) my free time on.
+
+- [Homebrew 6502 SBC](https://github.com/adumont/hb6502): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen.
+
+![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
 
 - [Breadboard EEPROM Programmer](https://github.com/adumont/mega6502/tree/main/programmer#how-to-use): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
 
