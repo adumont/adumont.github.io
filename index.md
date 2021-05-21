@@ -10,7 +10,7 @@ redirect_from:
 
 These projects and articles are hobbies I spend (or have spent) my free time on.
 
-- [Homebrew 6502 SBC](https://github.com/adumont/hb6502): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen.
+- [Homebrew 6502 SBC](https://github.com/adumont/hb6502#homebrew-6502-sbc): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen.
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
 
@@ -18,11 +18,11 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/programmer.jpg)
 
-- [Mega6502](https://github.com/adumont/mega6502), a breadboard project about driving a 6502 hardcode processor with an Arduino Mega acting as clock, rom and ram, with a homemade python disassembler that decode the running instructions on the fly.
+- [Mega6502](https://github.com/adumont/mega6502#6502-cpu-driven-by-an-arduino-mega), a breadboard project about driving a 6502 hardcode processor with an Arduino Mega acting as clock, rom and ram, with a homemade python disassembler that decode the running instructions on the fly.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/mega6502.jpg)
 
-- [AD6502](https://github.com/adumont/ad6502), a project with a Verilog 6502 softcore, a QT GUI, ram/rom and GPIO, in the icezum Alhambra FPGA
+- [AD6502](https://github.com/adumont/ad6502#ad6502), a project with a Verilog 6502 softcore, a QT GUI, ram/rom and GPIO, in the icezum Alhambra FPGA
 
 ![](https://github.com/adumont/ad6502/raw/master/assets/gui/vokoscreen-2020-05-24_15-01-50.gif)
 
@@ -30,7 +30,7 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://github.com/adumont/test-extension/raw/master/.github/makecode/blocks.png)
 
-- [#HRMCPU Human Resource Machine CPU](https://github.com/adumont/hrm-cpu): inspired from the HRM game, I have designed a full CPU from scratch, that behaves *like the game*.
+- [#HRMCPU Human Resource Machine CPU](https://github.com/adumont/hrm-cpu#human-resource-machine-cpu-verilog): inspired from the HRM game, I have designed a full CPU from scratch, that behaves *like the game*.
   - CPU design is written in Verilog HDL, the assembler is written in Python. Project is tested in Travis CI.
   - The CPU is synthesizable in FPGA, like the icezum Alhambra, or the ice40hx1k/8k.
   - A GUI developped in QT allows to run the code in the CPU step by step, and introspect every aspect of the CPU (registers,...)
