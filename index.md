@@ -14,6 +14,10 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
 
+- [Alex FORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* 6502 FORTH implementation (massively WIP). You can run it also in py65 emulation. 65C02 source code provided.
+
+![](https://github.com/adumont/hb6502/raw/main/forth/imgs/Forth.png)
+
 - [Breadboard EEPROM Programmer](https://github.com/adumont/hb6502/tree/main/programmer#breadboard-eeprom-programmer): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/programmer.jpg)
