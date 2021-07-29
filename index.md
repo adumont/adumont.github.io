@@ -26,6 +26,10 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://github.com/adumont/mega6502/raw/main/imgs/mega6502.jpg)
 
+- [Interactive AI with Huskylens](https://github.com/adumont/ProMicro-Huskylens#readme): Play and understand how AI Classification works with a DFRobot Huskylens AI camera. Use the 4 buttons to interactively (and iteratively) train the model among 4 possible classes.
+
+![](https://github.com/adumont/ProMicro-Huskylens/blob/main/doc/IMG_20210102_191126.jpg)
+
 - [AD6502](https://github.com/adumont/ad6502#ad6502), a project with a Verilog 6502 softcore, a QT GUI, ram/rom and GPIO, in the icezum Alhambra FPGA
 
 ![](https://github.com/adumont/ad6502/raw/master/assets/gui/vokoscreen-2020-05-24_15-01-50.gif)
