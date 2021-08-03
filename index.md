@@ -59,7 +59,7 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 - [adumont/jetson-nano](https://github.com/adumont/jetson-nano/blob/master/README.md): Tools and scripts to setup several things on the Nvidia Jetson Nano Dev board (Fast.ai, OpenCV, TensorFlow,...). Includes prebuilt python whl files for faster install (no need to rebuild wheels).
 
-- [CellularAutomaton](https://github.com/adumont/CellularAutomaton): several implementations of Cellular Automaton, in Logisim, IceStudio, and Verilog, synthesizable in the icezum Alhambra FPGA. Displays on leds, or VGA screen. See this Twitter Moment: [FPGA Project 2 - Cellular Automaton to VGA / Twitter](https://twitter.com/i/events/955588183252701184)
+- [CellularAutomaton](https://github.com/adumont/CellularAutomaton): several implementations of Cellular Automaton, in Logisim, IceStudio, and Verilog, synthesizable in the icezum Alhambra FPGA. Displays on leds, or VGA screen. See this Twitter Moment: [FPGA Project 2 - Cellular Automaton to VGA / Twitter](https://twitter.com/i/events/955588183252701184). I also wrote a couple of [articles on Cellular Automatons](https://maker.itnerd.space/tag/automaton/).
 
 ![](https://pbs.twimg.com/media/DUQ6faiWsAIc3DO?format=png&name=small)
 
