@@ -12,7 +12,8 @@ author: Alex Dumont
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Articles: "articles"
+#  Articles: "articles"
+  Calculators: "calculators"
 # About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
