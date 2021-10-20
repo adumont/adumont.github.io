@@ -14,7 +14,7 @@ author: Alex Dumont
 navbar-links:
 #  Articles: "articles"
   Calculators: "calculators"
-# About Me: "aboutme"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
