@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My projects
-subtitle: Some of my projects over the years
+# subtitle: Some of my projects over the years
 published: true
 comments: true
 redirect_from:
