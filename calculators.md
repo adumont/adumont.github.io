@@ -21,13 +21,13 @@ I love old calculators. There are the one I have:
 
 This HP 48sx was the one I studied with. I must have bought it around 1991. I first had an HP48s, which I then sold to buy this one, because it's expandible. I also have a 128K memory card.
 
-It was manufactured in Singapore in 1989.
+It was manufactured in Singapore in February 1993.
 
 ![](../assets/img/hp48sx.jpg)
 
 ## HP 42s
 
-I bought this one in 2021.
+I bought this one in 2021. It was manufactured in Singapore in April 1992.
 
 ![](../assets/img/hp42s.jpg)
 
@@ -35,15 +35,17 @@ I bought this one in 2021.
 
 ![](../assets/img/hp32sII.jpg)
 
+It was manufactured in Singapore in May 1995.
+
 # Casio
 
 ## Casio fx-880P Personal Computer
 
-I bought this one in Octobre 2021. Before me, it belonged to a Spanish architect. I have the complete box, with the cover, cheatsheet, and the book (Spanish edition).
+I bought this one in Octobre 2021. It belonged to a spanish architect. I have the complete box, with the cover, cheatsheet, and the book (Spanish edition).
 
 Although I put it here, it's rather a *personal pocket computer* than a calculator.
 
-Manufacturing date is unknow.
+Manufacturing date and location are unknown (I don't know how to decode the serial number).
 
 ![](../assets/img/casio-fx880p.jpg)
 
