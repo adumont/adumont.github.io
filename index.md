@@ -10,6 +10,8 @@ redirect_from:
 
 These projects and articles are hobbies I spend (or have spent) my free time on.
 
+- [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080): My work on the Cerberus2080 computer, which includes: a version of my 6502 FORTH, several additions to the BIOS, a serial programmer script, and an Emulator (for the 6502 cpu).
+
 - [Homebrew 6502 SBC](https://github.com/adumont/hb6502#homebrew-6502-sbc): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen. It has a small ROM monitor and I'm working on implementing FORTH on it.
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
