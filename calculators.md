@@ -6,10 +6,11 @@ published: true
 comments: true
 ---
 
-I love old calculators. There are the one I have:
+I love old calculators. These are the one I own:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
   - [HP 42s](#hp-42s)
+  - [HP 12c](#hp-12c)
   - [HP 32s II](#hp-32s-ii)
 - [Casio](#casio)
   - [Casio fx-880P Personal Computer](#casio-fx-880p-personal-computer)
@@ -30,6 +31,12 @@ It was manufactured in Singapore in February 1993.
 I bought this one in 2021. It was manufactured in Singapore in April 1992.
 
 ![](../assets/img/hp42s.jpg)
+
+## HP 12c
+
+![](../assets/img/hp12c.jpg)
+
+This HP-12c was manufactured in 1983 in Brazil. I got it it December 2021.
 
 ## HP 32s II
 
