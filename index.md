@@ -10,15 +10,15 @@ redirect_from:
 
 These projects and articles are hobbies I spend (or have spent) my free time on.
 
+- [Alex FORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* FORTH implementation for my 6502 breadboard computer. You can also run it in py65 emulation. Watch the [presentation](https://adumont.github.io/talks/) I gave about it for FORTH2020. I also made a version for the [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080).
+
+![](https://adumont.github.io/assets/img/forth/AlexForth_LCDdemo.png)
+
 - [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080): My work on the Cerberus2080 computer, which includes: a version of my 6502 FORTH, several additions to the BIOS, a serial programmer script, and an Emulator (for the 6502 cpu).
 
 - [Homebrew 6502 SBC](https://github.com/adumont/hb6502#homebrew-6502-sbc): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen. It has a small ROM monitor and I'm working on implementing FORTH on it.
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
-
-- [Alex FORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* 6502 FORTH implementation (massively WIP). You can run it also in py65 emulation. 65C02 source code provided.
-
-![](https://github.com/adumont/hb6502/raw/main/forth/imgs/Forth.png)
 
 - [Breadboard EEPROM Programmer](https://github.com/adumont/hb6502/tree/main/programmer#breadboard-eeprom-programmer): an EEPROM Programmer on a breadboard using a Sparkfun Arduino Pro Micro, for AT28C256 32Kx8 EEPROMs, with a Python CLI.
 
