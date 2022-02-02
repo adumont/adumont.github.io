@@ -6,11 +6,9 @@ published: true
 comments: true
 ---
 
-# FORTH
+## Implementing AlexFORTH for a 6502 computer
 
-## Implementing AlexFORTH for my 6502 computer
-
-I gave this presentation about how I implemented AlexFORTH for my 6502 breadboard computer during the FORTH2020 Zoom Meeting of Dec 11th, 2021.
+This is the recording of the presentation I gave at the FORTH2020 group meeting of Dec 11th, 2021 about how I implemented AlexFORTH for my 6502 breadboard computer.
 
 [![](../assets/img/forth/Implementing_FORTH_6502-Cover.png)](https://www.youtube.com/watch?v=FgLP8r7Zq_s)
 
