@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/adumont
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adumont.github.io
+    * I am adumont (https://keybase.io/adumont) on keybase.
+      * I have a public key ASAl8VhQq9NmC4cM4MLt50NKjwtP25YFzoGY-unn3qQ_aQo
+
+      To do so, I am signing this object:
+
+      {
+            "body": {
+                    "key": {
+                              "eldest_kid": "012025f15850abd3660b870ce0c2ede7434a8f0b4fdb9605ce8198fae9e7dea43f690a",
+                                    "host": "keybase.io",
+                                          "kid": "012025f15850abd3660b870ce0c2ede7434a8f0b4fdb9605ce8198fae9e7dea43f690a",
+                                                "uid": "c16ec5bfc9711f7acf7970109de76219",
+                                                      "username": "adumont"
+                    },
+                        "merkle_root": {
+                                  "ctime": 1644144689,
+                                        "hash": "a59ac12a96f85d426dea5e635d71b900ad025b04f431ec4312939fa376d867bebc226c8eb78ee81273a538894b061fb8a19b0748dad956210b66d046a1757e9d",
+                                              "hash_meta": "232954b9a856cf13d876d49572e1f8d89308765e38e1ba5bc7ee79953eac7a63",
+                                                    "seqno": 21807675
+                        },
+                            "service": {
+                                      "entropy": "4P7aLfIHjLWZfUrwL/yV/oon",
+                                            "hostname": "adumont.github.io",
+                                                  "protocol": "https:"
+                            },
+                                "type": "web_service_binding",
+                                    "version": 2
+            },
+              "client": {
+                      "name": "keybase.io go client",
+                          "version": "5.9.0"
+              },
+                "ctime": 1644144739,
+                  "expire_in": 504576000,
+                    "prev": "6864b7cca9b6f6b4b3869123eac19683ea8995adb7d1268cb4eff1434ec8df8f",
+                      "seqno": 10,
+                        "tag": "signature"
+      }
+
+      which yields the signature:
+
+      hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJfFYUKvTZguHDODC7edDSo8LT9uWBc6BmPrp596kP2kKp3BheWxvYWTESpcCCsQgaGS3zKm29rSzhpEj6sGWg+qJla230SaMtO/xQ07I34/EIM5c3fPLZ07JQhp5BDjuG7LqjftBK1MAqyY4JxZ8e47JAgHCo3NpZ8RAhPkDePWVnoh/XzzM0dDSO3/1CYDPH9MK3yUif+ukGf+Eyux6fcfOICQjyNbKwvzCpyjeH99D5koXCQdqg4Q4DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHtgEljffedT1HfjCsGnNUuACfBLMev/VcycRZZrXxpTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+      And finally, I am proving ownership of this host by posting or
+      appending to this document.
+
+      View my publicly-auditable identity here: https://keybase.io/adumont
+
+      ==================================================================
+              }
+                            }
+                        }
+                    }
+            }
+      }
