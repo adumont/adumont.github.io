@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Articles
-subtitle: Where I'll eventually add articles
+subtitle: A space where I might share things
 pagination:
   enabled: true
 ---
