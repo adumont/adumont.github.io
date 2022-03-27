@@ -150,6 +150,9 @@ google_analytics: "UA-75609256-4"
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
+
 # Google Tag Manager ID
 gtm: "GTM-K9SGPXJ"
 
