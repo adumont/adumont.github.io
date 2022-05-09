@@ -67,5 +67,10 @@ Manufacturing date and location are unknown (I don't know how to decode the seri
 
 ![](../assets/img/casiofx7000ga.jpg)
 
+# Texas Instrument
 
+## TI-30 Galaxy
 
+This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
+
+![](../assets/img/ti30galaxy.jpg)
