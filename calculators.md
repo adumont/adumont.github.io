@@ -16,6 +16,8 @@ I love vintage calculators! These are the one I own:
 - [Casio](#casio)
   - [Casio fx-880P Personal Computer](#casio-fx-880p-personal-computer)
   - [Casio fx-7000GA](#casio-fx-7000ga)
+- [Texas Instrument](#texas-instrument)
+  - [TI-30 Galaxy](#ti-30-galaxy)
 
 # Hewlett Packard
 
