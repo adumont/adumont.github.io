@@ -4,6 +4,8 @@ title: Calculators
 subtitle: My calculators collection
 published: true
 comments: true
+image_sliders:
+  - slider_hp12c
 ---
 
 I love vintage calculators! These are the one I own:
@@ -37,9 +39,9 @@ I bought this one in 2021. It was manufactured in Singapore in April 1992.
 
 ## HP 12c
 
-![](../assets/img/hp12c.jpg)
+{% include slider.html selector="slider_hp12c" %}
 
-This HP-12c was manufactured in 1983 in Brazil. I got it it December 2021.
+This HP-12c was manufactured in October 1983 in Brazil. I got it it December 2021.
 
 ## HP 48g
 
