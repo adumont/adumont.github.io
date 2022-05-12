@@ -3,28 +3,28 @@
   captions: true
   images:
     - src: /assets/img/hp12c/front.jpeg
-      title: HP 12c
-      alt: Programmable Finantial Calculator
+      # title: HP 12c
+      # alt: Programmable Finantial Calculator
       href: /assets/img/hp12c/front.jpeg
 
     - data-src: /assets/img/hp12c/leftdetail.jpeg
-      title: HP's longest and best-selling product
-      alt: In continual production since its introduction in 1981
+      # title: HP's longest and best-selling product
+      # alt: In continual production since its introduction in 1981
       href: /assets/img/hp12c/leftdetail.jpeg
 
     - data-src: /assets/img/hp12c/rightdetail.jpeg
-      title: Voyager series
-      alt: Gold-colored plate
+      # title: Voyager series
+      # alt: Gold-colored plate
       href: /assets/img/hp12c/rightdetail.jpeg
 
     - data-src: /assets/img/hp12c/serial.jpeg
-      title: Made in Brazil
-      alt: October, 1983
+      # title: Made in Brazil
+      # alt: October, 1983
       href: /assets/img/hp12c/serial.jpeg
 
     - data-src: /assets/img/hp12c/book.jpeg
-      title: Owner's handbook
-      alt: In pristine condition
+      # title: Owner's handbook
+      # alt: In pristine condition
       href: /assets/img/hp12c/book.jpeg
   settings:
     interval: 5000
