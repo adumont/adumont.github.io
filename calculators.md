@@ -39,9 +39,11 @@ I bought this one in 2021. It was manufactured in Singapore in April 1992.
 
 ## HP 12c
 
+The HP 12c is the legendary programmable financial calculator of the HP Voyager series. In continual production since its introduction in 1981, it is HP's longest and best-selling product.
+
 {% include slider.html selector="slider_hp12c" %}
 
-This HP-12c was manufactured in October 1983 in Brazil. I got it it December 2021.
+This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021.
 
 ## HP 48g
 
