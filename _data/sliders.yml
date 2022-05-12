@@ -1,0 +1,105 @@
+- selector: slider_hp12c
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/img/hp12c/front.jpeg
+      title: HP 12c
+      alt: Programmable Finantial Calculator
+      href: /assets/img/hp12c/front.jpeg
+
+    - data-src: /assets/img/hp12c/leftdetail.jpeg
+      title: HP's longest and best-selling product
+      alt: In continual production since its introduction in 1981
+      href: /assets/img/hp12c/leftdetail.jpeg
+
+    - data-src: /assets/img/hp12c/rightdetail.jpeg
+      title: Voyager series
+      alt: Gold-colored plate
+      href: /assets/img/hp12c/rightdetail.jpeg
+
+    - data-src: /assets/img/hp12c/serial.jpeg
+      title: Made in Brazil
+      alt: October, 1983
+      href: /assets/img/hp12c/serial.jpeg
+
+    - data-src: /assets/img/hp12c/book.jpeg
+      title: Owner's handbook
+      alt: In pristine condition
+      href: /assets/img/hp12c/book.jpeg
+  settings:
+    interval: 5000
+    height: "'auto'"
+    effect: "'fade'"
+
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: Minimum required attributes
+    - data-src: /img/2.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+      alt: Use data-src-2x for HiDPI devices
+    - src: /img/4.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true
