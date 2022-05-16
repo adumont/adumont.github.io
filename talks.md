@@ -18,3 +18,12 @@ Demo of AlexFORTH on my 6502 computer. Writing on the LCD using FORTH.
 * ["Implementing FORTH on my 6502 computer - Slides"](https://github.com/adumont/hb6502/tree/main/forth/presentation)
 * [AlexFORTH for 6502 - source code and documentation](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth)
 
+## AlexFORTH for 6502 - 2022.05 updates
+
+This is the recording of the presentation I gave at the FORTH2020 group meeting of May 14th, 2022 about development updates of AlexForth for 6502.
+
+[![](../assets/img/forth/AlexForth6502-2022.05updates-Cover.png)](https://www.youtube.com/watch?v=jJ7XDzRJuVk&t=6465s)
+
+* [AlexForth 6502 - 2022.05 updates - Slides](https://github.com/adumont/hb6502/tree/main/forth/presentation)
+* [AlexFORTH for 6502 - source code and documentation](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth)
+
