@@ -29,7 +29,7 @@ This pictures shows all my HP's calculators:
 
 ## HP 48sx
 
-This HP 48sx was the one I studied with. I must have bought it around 1993. Before this one, I had an HP48s, which I then sold to buy this one, because it was expandible. I also have a 128K memory card.
+This HP 48sx was the one I studied with. I must have bought it around 1993. Before this one, I had an HP48s, which I then sold to buy this one, because it was expandible. I also have a 128K memory card and the original book.
 
 It was manufactured in Singapore in February 1993.
 
@@ -47,19 +47,19 @@ The HP 12c is the legendary programmable financial calculator of the HP Voyager 
 
 {% include slider.html selector="slider_hp12c" %}
 
-This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021.
+This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021. I then acquired the book in April 2022.
 
 ## HP 48g+
 
 ![](../assets/img/hp48g+/front.jpeg)
 
-This HP48g+ was manufactured in Indonesia in May 2001. It has a black LCD screen. I acquired it in May 22.
+This HP48g+ was manufactured in Indonesia in May 2001. It has a black LCD screen. I acquired it in May 22, with the 3 books.
 
 ## HP 48g
 
 ![](../assets/img/hp48g.jpg)
 
-It was manufactured in Singapore in February 1995.  I acquired it in May 22.
+It was manufactured in Singapore in February 1995. I acquired it in April 22. I also have the "user guide" book.
 
 ## HP 32s II
 
