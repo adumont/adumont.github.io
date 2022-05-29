@@ -13,7 +13,8 @@ I love vintage calculators! These are the one I own:
   - [HP 48sx](#hp-48sx)
   - [HP 42s](#hp-42s)
   - [HP 12c](#hp-12c)
-  - [HP 48g](#hp-48g)
+  - [HP 48g+](#hp-48g)
+  - [HP 48g](#hp-48g-1)
   - [HP 32s II](#hp-32s-ii)
 - [Casio](#casio)
   - [Casio fx-880P Personal Computer](#casio-fx-880p-personal-computer)
@@ -22,6 +23,9 @@ I love vintage calculators! These are the one I own:
   - [TI-30 Galaxy](#ti-30-galaxy)
 
 # Hewlett Packard
+
+This pictures shows all my HP's calculators:
+![](../assets/img/hp-collection.jpeg)
 
 ## HP 48sx
 
@@ -45,11 +49,17 @@ The HP 12c is the legendary programmable financial calculator of the HP Voyager 
 
 This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021.
 
+## HP 48g+
+
+![](../assets/img/hp48g+/front.jpeg)
+
+This HP48g+ was manufactured in Indonesia in May 2001. It has a black LCD screen. I acquired it in May 22.
+
 ## HP 48g
 
 ![](../assets/img/hp48g.jpg)
 
-It was manufactured in Singapore in February 1995.
+It was manufactured in Singapore in February 1995.  I acquired it in May 22.
 
 ## HP 32s II
 
