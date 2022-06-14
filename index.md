@@ -10,7 +10,7 @@ redirect_from:
 
 These projects and articles are hobbies I spend (or have spent) my free time on.
 
-- [Alex FORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* FORTH implementation for my 6502 breadboard computer. You can also run it in py65 emulation. Watch the [presentation](https://adumont.github.io/talks/) I gave about it for FORTH2020. I also made a version for the [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080).
+- [Alex FORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* FORTH implementation for my 6502 breadboard computer. You can also run it in py65 emulation. Watch the [presentation](https://adumont.github.io/talks/) I gave about it for FORTH2020 group. I also made a version for the [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080). You can also try it online [here](https://replit.com/@AlexandreDumon1/Alex-Forth).
 
 ![](https://adumont.github.io/assets/img/forth/AlexForth_LCDdemo.png)
 
