@@ -1,3 +1,35 @@
+- selector: slider_mk52
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/img/mk52/front.jpg
+      href: /assets/img/mk52/front.jpg
+
+    - src: /assets/img/mk52/keyboard.jpg
+      href: /assets/img/mk52/keyboard.jpg
+
+    - src: /assets/img/mk52/display.jpg
+      href: /assets/img/mk52/display.jpg
+
+    - src: /assets/img/mk52/ports.jpg
+      href: /assets/img/mk52/ports.jpg
+
+    - src: /assets/img/mk52/serial.jpg
+      href: /assets/img/mk52/serial.jpg
+
+    - src: /assets/img/mk52/book1.jpg
+      href: /assets/img/mk52/book1.jpg
+
+    - src: /assets/img/mk52/book1-page.jpg
+      href: /assets/img/mk52/book1-page.jpg
+
+    - src: /assets/img/mk52/schematics.jpg
+      href: /assets/img/mk52/schematics.jpg
+  settings:
+    interval: 5000
+    height: "'auto'"
+    effect: "'fade'"
+
 - selector: slider_hp12c
   bullets: true
   captions: true
