@@ -56,11 +56,15 @@ This HP-12c, with gold-colored plate, characteristic of the original models, was
 
 ## HP 50g
 
-In construction
+I acquired this HP 50g Graphing calculator in June 2022. Previously it belonged to a spanish student in industrial engineering, who bought it from an electrical engineering student.
+
+![](../assets/img/hp50g/hp50g_pouch.jpg)
 
 ## HP Prime
 
-In construction
+I acquired this HP Prime Graphing calculator in June 2022. I bought it from a student in economics who said she only used it twice.
+
+![](../assets/img/prime/prime-booklet.jpg)
 
 ## HP 48g+
 
