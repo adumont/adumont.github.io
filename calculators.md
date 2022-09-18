@@ -12,8 +12,9 @@ image_sliders:
 I love vintage calculators! These are the one I own:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
-  - [HP 42s](#hp-42s)
+  - [HP 41c](#hp-41c)
   - [HP 12c](#hp-12c)
+  - [HP 42s](#hp-42s)
   - [HP 50g](#hp-50g)
   - [HP Prime](#hp-prime)
   - [HP 48g+](#hp-48g)
@@ -29,7 +30,7 @@ I love vintage calculators! These are the one I own:
 
 # Hewlett Packard
 
-This pictures shows all my HP's calculators:
+This pictures shows some of my HP's calculators:
 ![](../assets/img/hp-collection.jpeg)
 
 ## HP 48sx
@@ -40,11 +41,9 @@ It was manufactured in Singapore in February 1993.
 
 ![](../assets/img/hp48sx.jpg)
 
-## HP 42s
+## HP 41c
 
-I bought this one in 2021. It was manufactured in Singapore in April 1992.
-
-![](../assets/img/hp42s.jpg)
+I acquired this HP-41C in July 2022. It was manufactured in 1980 in the USA. I also have the Math Pac (+book), Navigation Pac (+book) and a Quad Memory module.
 
 ## HP 12c
 
@@ -53,6 +52,12 @@ The HP 12c is the legendary programmable financial calculator of the HP Voyager 
 {% include slider.html selector="slider_hp12c" %}
 
 This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021. I then acquired the book in April 2022.
+
+## HP 42s
+
+The 42s was the successor of the 41C computer. I acquired this HP-42s in 2021. It was manufactured in Singapore in April 1992.
+
+![](../assets/img/hp42s.jpg)
 
 ## HP 50g
 
