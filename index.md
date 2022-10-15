@@ -1,4 +1,4 @@
----
+--- C$
 layout: page
 title: My projects
 # subtitle: Some of my projects over the years
@@ -45,7 +45,7 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
   - The CPU is synthesizable in FPGA, like the icezum Alhambra, or the ice40hx1k/8k.
   - A GUI developped in QT allows to run the code in the CPU step by step, and introspect every aspect of the CPU (registers,...)
 
-![](https://lh3.googleusercontent.com/gYur0MdWlTUTCJicW-eUlVAAjghpUWjYkeHRqYW4TFd-HkOLgCW6I-gzmhPUAKT0qium1gAemxWvjqAaEA3U0EH7waU6Bto5VUSg7a5v)
+![](https://adumont.github.io/assets/img/hrmcpu.gif)
 
 - [DRAM module driven by Arduino](https://github.com/adumont/dram)
 
