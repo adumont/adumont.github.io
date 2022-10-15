@@ -1,4 +1,4 @@
---- C$
+---
 layout: page
 title: My projects
 # subtitle: Some of my projects over the years
