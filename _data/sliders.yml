@@ -1,3 +1,36 @@
+# - selector: slider_hp41c
+#   bullets: true
+#   captions: true
+#   images:
+#     - src: /assets/img/hp41c/hp41c_01.jpg
+#       href: /assets/img/hp41c/hp41c_01.jpg
+
+#     - src: /assets/img/hp41c/hp41c_02.jpg
+#       href: /assets/img/hp41c/hp41c_02.jpg
+
+#     - src: /assets/img/hp41c/hp41c_03.jpg
+#       href: /assets/img/hp41c/hp41c_03.jpg
+
+#     - src: /assets/img/hp41c/hp41c_04.jpg
+#       href: /assets/img/hp41c/hp41c_04.jpg
+
+#     - src: /assets/img/hp41c/hp41c_05.jpg
+#       href: /assets/img/hp41c/hp41c_05.jpg
+
+#     - src: /assets/img/hp41c/hp41c_06.jpg
+#       href: /assets/img/hp41c/hp41c_06.jpg
+
+#     - src: /assets/img/hp41c/hp41c_07.jpg
+#       href: /assets/img/hp41c/hp41c_07.jpg
+
+#     - src: /assets/img/hp41c/hp41c_08.jpg
+#       href: /assets/img/hp41c/hp41c_08.jpg
+
+#   settings:
+#     interval: 5000
+#     height: "'auto'"
+#     effect: "'fade'"
+
 - selector: slider_mk52
   bullets: true
   captions: true

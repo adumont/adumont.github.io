@@ -5,11 +5,12 @@ subtitle: My calculators collection
 published: true
 comments: true
 image_sliders:
+  # - slider_hp41c
   - slider_hp12c
   - slider_mk52
 ---
 
-I love vintage calculators! These are the one I own:
+I love vintage calculators! Here's my humble collection:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
   - [HP 41c](#hp-41c)
@@ -35,7 +36,7 @@ This pictures shows some of my HP's calculators:
 
 ## HP 48sx
 
-This HP 48sx was the one I studied with. I must have bought it around 1993. Before this one, I had an HP48s, which I then sold to buy this one, because it was expandible. I also have a 128K memory card and the original book.
+This HP 48sx was the one I studied engineering with. I must have bought it around 1993. Before this one, I owned an HP48s which I sold to buy this one because it was expandable. I also have a 128K memory card and the original user manual.
 
 It was manufactured in Singapore in February 1993.
 
@@ -43,7 +44,11 @@ It was manufactured in Singapore in February 1993.
 
 ## HP 41c
 
-I acquired this HP-41C in July 2022. It was manufactured in 1980 in the USA. I also have the Math Pac (+book), Navigation Pac (+book) and a Quad Memory module.
+I acquired this HP-41C in July 2022. It was manufactured in 1980 in Corvallis, Oregon (USA). I also have two applications modules with books: Math I pac and Navigation pac as well as a Quad Memory module and the card reader with magnetic cards.
+
+[![](../../assets/img/hp41c/hp41c_01.jpg)](/pages/hp41c/)
+
+See more [pictures of my HP-41C](/pages/hp41c/).
 
 ## HP 12c
 
