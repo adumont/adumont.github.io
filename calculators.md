@@ -139,6 +139,6 @@ This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
 
 The TI-52 adds base arithmetics and conversion, as well as complex numbers.
 
-![](../assets/img/ti-52.jpg)
+![](../assets/img/ti-52.2.jpg)
 
 I acquired it in Oct. 2022.
