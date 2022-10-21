@@ -28,6 +28,7 @@ I love vintage calculators! Here's my humble collection:
   - [Casio fx-7000GA](#casio-fx-7000ga)
 - [Texas Instrument](#texas-instrument)
   - [TI-30 Galaxy](#ti-30-galaxy)
+  - [TI-52](#ti-52)
 
 # Hewlett Packard
 
@@ -133,3 +134,11 @@ Manufacturing date and location are unknown (I don't know how to decode the seri
 This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
 
 ![](../assets/img/ti30galaxy.jpg)
+
+## TI-52
+
+The TI-52 adds base arithmetics and conversion, as well as complex numbers.
+
+![](../assets/img/ti-52.jpg)
+
+I acquired it in Oct. 2022.
