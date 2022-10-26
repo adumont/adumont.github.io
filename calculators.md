@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calculators
-subtitle: My calculators collection
+subtitle: My calculator collection
 published: true
 comments: true
 image_sliders:
