@@ -45,11 +45,27 @@ It was manufactured in Singapore in February 1993.
 
 ## HP 41c
 
-I acquired this HP-41C in July 2022. It was manufactured in 1980 in Corvallis, Oregon (USA). I also have two applications modules with books: Math I pac and Navigation pac as well as a Quad Memory module, a magnetic card reader and some magnetic cards (including the HP-67 Standard pac).
+I acquired this HP-41C in July 2022. This one is a *fullnut* model, manufactured in 1980 in Corvallis, Oregon (USA).
 
 [![](../../assets/img/hp41c/hp41c_01.jpg)](/pages/hp41c/)
 
 See more [pictures of my HP-41C](/pages/hp41c/).
+
+In addition to the HP-41C, I also have the following accesories:
+- HP-41C original pouch
+- HP-41C Owner's handbook and programming guide
+- Math I module and book
+- Navigation module and book
+- Quad Memory module
+
+### Magnetic card reader
+
+In July 2022 I acquired an HP 82104A magnetic card reader for the HP-41C, sold as useless and unrepairable (that was written on a label). It was manufactured in 1982. I managed to repair it by repacing the card advancing wheel with a couple of o-rings.
+
+I also have:
+- 5 blank magnetic cards
+- the HP-67 Standard pac magnetic cards (no book)
+- 3 program card holders, full of written cards (content unknown yet)
 
 ## HP 12c
 
