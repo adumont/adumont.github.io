@@ -45,7 +45,7 @@ It was manufactured in Singapore in February 1993.
 
 ## HP 41c
 
-I acquired this HP-41C in July 2022. It was manufactured in 1980 in Corvallis, Oregon (USA). I also have two applications modules with books: Math I pac and Navigation pac as well as a Quad Memory module and the card reader with magnetic cards.
+I acquired this HP-41C in July 2022. It was manufactured in 1980 in Corvallis, Oregon (USA). I also have two applications modules with books: Math I pac and Navigation pac as well as a Quad Memory module, a magnetic card reader and some magnetic cards (including the HP-67 Standard pac).
 
 [![](../../assets/img/hp41c/hp41c_01.jpg)](/pages/hp41c/)
 
