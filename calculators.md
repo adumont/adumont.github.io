@@ -67,6 +67,8 @@ I also have:
 - the HP-67 Standard pac magnetic cards (no book)
 - 3 program card holders, full of written cards (content unknown yet)
 
+![](../../assets/img/hp41c/hp41-reader.jpg)
+
 ## HP 12c
 
 The HP 12c is the legendary programmable financial calculator of the HP Voyager series. In continual production since its introduction in 1981, it is HP's longest and best-selling product.

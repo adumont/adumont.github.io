@@ -20,3 +20,5 @@ comments: true
 ![](../../assets/img/hp41c/hp41c_06.jpg)
 
 ![](../../assets/img/hp41c/hp41c_07.jpg)
+
+![](../../assets/img/hp41c/hp41-reader.jpg)
