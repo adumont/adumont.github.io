@@ -60,7 +60,7 @@ In addition to the HP-41C, I also have the following accesories:
 
 ### Magnetic card reader
 
-In July 2022 I acquired an HP 82104A magnetic card reader for the HP-41C, sold as useless and unrepairable (that was written on a label). It was manufactured in 1982. I managed to repair it by repacing the card advancing wheel with a couple of o-rings.
+In July 2022 I acquired an HP 82104A magnetic card reader for the HP-41C, manufactured in 1982 in Singapure.
 
 I also have:
 - 5 blank magnetic cards
@@ -68,6 +68,8 @@ I also have:
 - 3 program card holders, full of written cards (content unknown yet)
 
 ![](../../assets/img/hp41c/hp41-reader.jpg)
+
+Despite being sold with a label that read "useless unrepairable", I managed to repair it by cleaning it and replacing the damaged wheel with a couple of o-rings.
 
 ## HP 12c
 
