@@ -43,7 +43,7 @@ It was manufactured in Singapore in February 1993.
 
 ![](../assets/img/hp48sx.jpg)
 
-## HP 41c
+## HP 41C
 
 I acquired this HP-41C in July 2022. This one is a *fullnut* model, manufactured in 1980 in Corvallis, Oregon (USA).
 
@@ -56,7 +56,9 @@ In addition to the HP-41C, I also have the following accesories:
 - HP-41C Owner's handbook and programming guide
 - Math I module and book
 - Navigation module and book
-- Quad Memory module
+- Quad Memory module (x2)
+- Time module
+- X-Functions module
 
 ### Magnetic card reader
 
