@@ -45,7 +45,7 @@ It was manufactured in Singapore in February 1993.
 
 ## HP 41C
 
-I acquired this HP-41C in July 2022. This one is a *fullnut* model, manufactured in 1980 in Corvallis, Oregon (USA).
+I acquired this HP-41C in July 2022. This one is a *fullnut*, *tall keys* model, manufactured in 1980 in Corvallis, Oregon (USA).
 
 [![](../../assets/img/hp41c/hp41c_01.jpg)](/pages/hp41c/)
 
