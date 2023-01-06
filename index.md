@@ -10,13 +10,15 @@ redirect_from:
 
 These projects and articles are hobbies I spend (or have spent) my free time on.
 
-- [AlexFORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* FORTH implementation for my 6502 breadboard computer. You can also run it in py65 emulation. Watch the [presentation](https://adumont.github.io/talks/) I gave about it for FORTH2020 group. You can also try it online [here](https://replit.com/@AlexandreDumon1/Alex-Forth). I also made a version for the [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080). 
+- [AlexFORTH for 6502](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth): My own *freely influenced* FORTH implementation for my 6502 breadboard computer. You can also run it in py65 emulation. Watch the [presentation](https://adumont.github.io/talks/) I gave about it for FORTH2020 group. You can also try it online [here](https://replit.com/@AlexandreDumon1/Alex-Forth). I also made a version for the [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080).
+
+- [Emu6502](https://github.com/adumont/emu6502): A 65C02 emulator written in Forth. At the moment, it perfectly loads and runs both AlexMon and AlexForth roms, both written in 6502 assembly.
 
 ![](https://adumont.github.io/assets/img/forth/AlexForth_LCDdemo.png)
 
 - [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080): My work on the Cerberus2080 computer, which includes: a version of my 6502 FORTH, several additions to the BIOS, a serial programmer script, and an Emulator (for the 6502 cpu).
 
-- [My 6502 computer on a breadboard](https://github.com/adumont/hb6502#homebrew-6502-sbc): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen. It has a small ROM monitor and I'm working on implementing FORTH on it.
+- [My 6502 computer on a breadboard](https://github.com/adumont/hb6502#homebrew-6502-sbc): Building a homebrew single board computer powered by a WDC 65C02s CPU at 1.8MHz, with 16KB of SRAM, 32K of ROM, a 65c22 VIA interface, a 6551 ACIA serial interface and an 20x4 LCD screen. It has a [small ROM monitor](https://github.com/adumont/hb6502#monitor) (AlexMon) and also runs [my own Forth implementation](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth) (AlexForth).
 
 ![](https://github.com/adumont/hb6502/raw/main/sbc/imgs/IMG_20210507_202922_616.jpg)
 
