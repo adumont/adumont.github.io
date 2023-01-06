@@ -13,7 +13,7 @@ image_sliders:
 I love vintage calculators! Here's my humble collection:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
-  - [HP 41c](#hp-41c)
+  - [HP 41C](#hp-41c)
   - [HP 12c](#hp-12c)
   - [HP 42s](#hp-42s)
   - [HP 50g](#hp-50g)
@@ -24,8 +24,9 @@ I love vintage calculators! Here's my humble collection:
 - [Электроника](#электроника)
   - [Электроника MK-52](#электроника-mk-52)
 - [Casio](#casio)
-  - [Casio fx-880P Personal Computer](#casio-fx-880p-personal-computer)
-  - [Casio fx-7000GA](#casio-fx-7000ga)
+  - [Casio FX-880P Personal Computer](#casio-fx-880p-personal-computer)
+  - [Casio CFX-9940GT+](#casio-cfx-9940gt)
+  - [Casio FX-7000GA](#casio-fx-7000ga)
 - [Texas Instrument](#texas-instrument)
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-52](#ti-52)
@@ -133,7 +134,7 @@ Reference:
 
 # Casio
 
-## Casio fx-880P Personal Computer
+## Casio FX-880P Personal Computer
 
 I bought this fx-880P in Octobre 2021. It belonged to a spanish architect. I have the complete box, with the cover, cheatsheet, and the book (Spanish edition).
 
@@ -143,7 +144,11 @@ Manufacturing date and location are unknown (I don't know how to decode the seri
 
 ![](../assets/img/casio-fx880p.jpg)
 
-## Casio fx-7000GA
+## Casio CFX-9940GT+
+
+The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color graphing calculator from 1997, in the Casio Green Classic series. It had 32K of ram, 28K for the user as well as an integrated Program Library. This unit was my brother's calculator when he was in high school. He gifted it to me in Dec. 2022.
+
+## Casio FX-7000GA
 
 ![](../assets/img/casiofx7000ga.jpg)
 
