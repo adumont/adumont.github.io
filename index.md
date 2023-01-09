@@ -14,7 +14,7 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://adumont.github.io/assets/img/forth/AlexForth_LCDdemo.png)
 
-- [Emu6502](https://github.com/adumont/emu6502): A 65C02 emulator written in Forth. At the moment, it perfectly loads and runs both AlexMon and AlexForth roms, both written in 6502 assembly.
+- [Emu6502](https://github.com/adumont/emu6502): A 65C02 emulator written in Forth. At the moment, it perfectly loads and runs both AlexMon and AlexForth roms, both written in 65C02 assembly.
 
 - [Cerberus2080](https://github.com/adumont/CERBERUS2080#cerberus2080): My work on the Cerberus2080 computer, which includes: a version of my 6502 FORTH, several additions to the BIOS, a serial programmer script, and an Emulator (for the 6502 cpu).
 
