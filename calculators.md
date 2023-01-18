@@ -25,6 +25,7 @@ I love vintage calculators! Here's my humble collection:
   - [Электроника MK-52](#электроника-mk-52)
 - [Casio](#casio)
   - [Casio FX-880P Personal Computer](#casio-fx-880p-personal-computer)
+  - [Casio FX-850P Personal Computer](#casio-fx-850p-personal-computer)
   - [Casio CFX-9940GT+](#casio-cfx-9940gt)
   - [Casio FX-7000GA](#casio-fx-7000ga)
 - [Texas Instrument](#texas-instrument)
@@ -136,7 +137,7 @@ Reference:
 
 ## Casio FX-880P Personal Computer
 
-I bought this fx-880P in Octobre 2021. It belonged to a spanish architect. I have the complete box, with the cover, cheatsheet, and the book (Spanish edition).
+I bought this FX-880P in Octobre 2021. It belonged to a spanish architect. I have the complete box, with the cover, cheatsheet, and the book (Spanish edition).
 
 Although I put it here, it's rather a *personal pocket computer* than a calculator.
 
@@ -144,9 +145,17 @@ Manufacturing date and location are unknown (I don't know how to decode the seri
 
 ![](../assets/img/casio-fx880p.jpg)
 
+## Casio FX-850P Personal Computer
+
+![](../assets/img/casio-fx850p.jpg)
+
+I acquired this FX-850P in January 2023.
+
 ## Casio CFX-9940GT+
 
 The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color graphing calculator from 1997, in the Casio Green Classic series. It had 32K of ram, 28K for the user as well as an integrated Program Library. This unit was my brother's calculator when he was in high school. He gifted it to me in Dec. 2022.
+
+![](../assets/img/casio-CFX-9940GT+.jpg)
 
 ## Casio FX-7000GA
 
