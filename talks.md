@@ -27,3 +27,8 @@ This is the recording of the presentation I gave at the FORTH2020 group meeting 
 * [AlexForth 6502 - 2022.05 updates - Slides](https://github.com/adumont/hb6502/raw/main/forth/presentation/AlexForth%206502%20-%202022.05%20updates.pdf)
 * [AlexFORTH for 6502 - source code and documentation](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth)
 
+## Emu6502, a 65C02 emulator in Forth
+
+Slides of the presentation I gave to the FORTH2020 users meeting on Jan 21st, 2023 about how I implemented Emu6502, a 65C02 emulator written in Forth.
+
+* [Emu6502, a 65C02 emulator in Forth - Slides](../assets/slides/Emu6502_2023.01.pdf)
