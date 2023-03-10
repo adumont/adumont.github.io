@@ -29,6 +29,7 @@ I love vintage calculators! Here's my humble collection:
   - [Casio CFX-9940GT+](#casio-cfx-9940gt)
   - [Casio FX-7000GA](#casio-fx-7000ga)
 - [Texas Instrument](#texas-instrument)
+  - [TI-92](#ti-92)
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-52](#ti-52)
 
