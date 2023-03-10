@@ -45,6 +45,10 @@ It was manufactured in Singapore in February 1993.
 
 ![](../assets/img/hp48sx.jpg)
 
+In 2022 I got a second HP-48sx with it's original box, books and soft cover. This one is subject to keyboard issues (need to be repaired one day).
+
+![](../assets/img/hp48sx2/hp48sx(2)+box+books.jpg)
+
 ## HP 41C
 
 I acquired this HP-41C in July 2022. This one is a *fullnut*, *tall keys* model, manufactured in 1980 in Corvallis, Oregon (USA).
@@ -162,6 +166,12 @@ The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color gra
 ![](../assets/img/casiofx7000ga.jpg)
 
 # Texas Instrument
+
+## TI-92
+
+I acquired this TI-92 and its origal book in March 2023. It was originally bought in Oporto in November 1996, and served a mechanical engineer student there.
+
+![](../assets/img/ti-92/20230310_132554.jpg)
 
 ## TI-30 Galaxy
 
