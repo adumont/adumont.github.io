@@ -132,11 +132,12 @@ The MK52 were manufactured from 1982 until 1994 at the Quasar and Kvadr plants i
 
 {% include slider.html selector="slider_mk52" %}
 
-I acquired this MK52 in May 2022. It came from Ukraine. According to the serial number, it was built in November 1993. Along with the calculator, I have both original instructions books (in russian) and the schematics diagram.
+I acquired this MK52 in May 2022. It came from Zaporizhzhia, Ukraine. According to the serial number, it was built in November 1993. Along with the calculator, I have both original instructions books (in russian) and the schematics diagram.
 
 Reference:
 - [Museum of soviet calculators](https://elektronika.su/en/calculators/elektronika-mk-52/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Elektronika_MK-52)
+- [How to use the EEPROM on the MK-52](https://docs.google.com/document/d/1IEsiU8UPklZirhOwH_beCeBxm-5CtJGUl0QYOyrBjb4/)
 
 # Casio
 
