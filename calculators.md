@@ -28,7 +28,7 @@ I love vintage calculators! Here's my humble collection:
   - [Casio FX-850P Personal Computer](#casio-fx-850p-personal-computer)
   - [Casio CFX-9940GT+](#casio-cfx-9940gt)
   - [Casio FX-7000GA](#casio-fx-7000ga)
-- [Texas Instrument](#texas-instrument)
+- [Texas Instruments](#texas-instruments)
   - [TI-92](#ti-92)
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-52](#ti-52)
@@ -167,7 +167,7 @@ The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color gra
 
 ![](../assets/img/casiofx7000ga.jpg)
 
-# Texas Instrument
+# Texas Instruments
 
 ## TI-92
 
