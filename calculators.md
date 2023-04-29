@@ -32,6 +32,7 @@ I love vintage calculators! Here's my humble collection:
   - [TI-92](#ti-92)
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-52](#ti-52)
+  - [TI Business Analyst](#ti-business-analyst)
 
 # Hewlett Packard
 
@@ -46,7 +47,7 @@ It was manufactured in Singapore in February 1993.
 
 ![](../assets/img/hp48sx.jpg)
 
-In 2022 I got a second HP-48sx with it's original box, books and soft cover. This one is subject to keyboard issues (need to be repaired one day).
+In 2022 I got a second HP-48sx with its original box, books and pouch. This one is subject to keyboard issues (need to be repaired one day).
 
 ![](../assets/img/hp48sx2/hp48sx(2)+box+books.jpg)
 
@@ -188,3 +189,11 @@ The TI-52 adds base arithmetics and conversion, as well as complex numbers.
 ![](../assets/img/ti-52.2.jpg)
 
 I acquired it in Oct. 2022.
+
+## TI Business Analyst
+
+Introduced in 1976 together with the entry calculator TI-30, the TI Business Analyst was the first in a successful family of  financial calculators, in the "Majestic" line.
+
+This unit was made in August 1978, in the TI Plant of Abeline in Texas. I acquired it in April 2023.
+
+![](../assets/img/ti-ba/20230428_201219.jpg)
