@@ -81,7 +81,7 @@ social-network-links:
   mastodon: mastodon.social/@adumont
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
   discord: users/adumont#2442
 #  kaggle: yourname
 #  hackerrank: yourname
