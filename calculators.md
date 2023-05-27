@@ -33,6 +33,11 @@ I love vintage calculators! Here's my humble collection:
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-52](#ti-52)
   - [TI Business Analyst](#ti-business-analyst)
+  - [TI SR-50](#ti-sr-50)
+  - [TI SR-50A](#ti-sr-50a)
+  - [TI-33](#ti-33)
+  - [TI-3500](#ti-3500)
+  
 
 # Hewlett Packard
 
