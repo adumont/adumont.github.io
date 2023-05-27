@@ -192,8 +192,50 @@ I acquired it in Oct. 2022.
 
 ## TI Business Analyst
 
-Introduced in 1976 together with the entry calculator TI-30, the TI Business Analyst was the first in a successful family of  financial calculators, in the "Majestic" line.
+Introduced in 1976 together with the entry calculator TI-30, the TI Business Analyst was the first in a successful family of financial calculators.
 
 This unit was made in August 1978, in the TI Plant of Abeline in Texas. I acquired it in April 2023.
 
 ![](../assets/img/ti-ba/20230428_201219.jpg)
+
+The Business Analyst belongs to the Texas Instruments Majestic line.
+
+## TI SR-50
+
+I acquired this TI SR-50 (Slide Rule 50) in an estate sales in May 2023.
+
+![](../assets/img/ti-sr-50/TI-SR-50.jpg)
+
+This unit was produced in the TI Almelo plant in Holland. The manufacturing date code "125" printed inside the calculator indicates it was produced in late March 1975. 
+
+Powered with 3 external Ni-Mh AAA cells (1.2V) it is perfectly working. Only issue is the On/Off switch being a bit loose and will need further inspection.
+
+The SR-50 belongs to the Texas Instruments Classic First Generation family.
+
+## TI SR-50A
+
+I acquired this TI SR-50A (Slide Rule 50A) in an estate sales in May 2023.
+
+![](../assets/img/ti-sr-50a/TI-SR-50A.jpg)
+
+According to the date code 7602 of several ICs inside the unit, it was likely produced in January or Februrary 1976.
+
+Powered with 3 external Ni-Mh AAA cells (1.2V) it is perfectly working.
+
+The SR-50A belongs to the Classic Second Generation family of Texas Instruments calculators.
+
+## TI-33
+
+This unit was made in Spain in 1979. Although it it powering on just fine with a 9V battery, it has the bouncing keys problem typical of these TI-30 family models.
+
+![](../assets/img/ti-33/TI-33.jpg)
+
+I acquired this TI-33 in an estate sales in May 2023.
+
+## TI-3500
+
+The TI-3500 was introduced in Septembre 1972 (see [here](http://www.datamath.org/Story/Datamath.htm#The%20Introduction%20of%20the%20Datamath)). I acquired this TI-3500 in an estate sales in May 2023.
+
+![](../assets/img/ti-3500/TI-3500.jpg)
+
+Manufacturing date and origin is unknown. I'd have to open it to find out some hints about it.
