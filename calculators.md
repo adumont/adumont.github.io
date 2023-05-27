@@ -223,7 +223,7 @@ I acquired this TI SR-50A (Slide Rule 50A) in an estate sales in May 2023.
 
 ![](../assets/img/ti-sr-50a/TI-SR-50A.jpg)
 
-According to the date code 7602 of several ICs inside the unit, it was likely produced in January or Februrary 1976.
+Date code reads 0976ACH, so it was made the first week of February 1976, in the TI Almelo plant in Holland.
 
 Powered with 3 external Ni-Mh AAA cells (1.2V) it is perfectly working.
 
