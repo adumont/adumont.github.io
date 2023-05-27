@@ -211,9 +211,9 @@ I acquired this TI SR-50 (Slide Rule 50) in an estate sales in May 2023.
 
 ![](../assets/img/ti-sr-50/TI-SR-50.jpg)
 
-This unit was produced in the TI Almelo plant in Holland. The manufacturing date code "125" printed inside the calculator indicates it was produced in late March 1975. 
+This unit was produced in the TI Almelo plant in Holland. The manufacturing date code "155" printed inside the calculator indicates it was produced in April 1975.
 
-Powered with 3 external Ni-Mh AAA cells (1.2V) it is perfectly working. Only issue is the On/Off switch being a bit loose and will need further inspection.
+It is perfectly working when powered with 3 external Ni-Mh AAA cells (1.2V). Only issue is the On/Off switch being a bit loose and will need further inspection.
 
 The SR-50 belongs to the Texas Instruments Classic First Generation family.
 
