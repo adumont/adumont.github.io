@@ -41,7 +41,7 @@ I love vintage calculators! Here's my humble collection:
 
 # Hewlett Packard
 
-This pictures shows some of my HP's calculators:
+This picture shows some of my HP's calculators:
 ![](../assets/img/hp-collection.jpeg)
 
 ## HP 48sx
