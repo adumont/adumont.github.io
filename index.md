@@ -14,6 +14,8 @@ These projects and articles are hobbies I spend (or have spent) my free time on.
 
 ![](https://adumont.github.io/assets/img/forth/AlexForth_LCDdemo.png)
 
+- [AlexFORTH for 6809](https://github.com/adumont/AlexForth6809): I'm documenting all the major steps of how to build your own FORTH , and how FORTH internal mechanics works, while slowly porting [AlexFORTH](https://github.com/adumont/hb6502/tree/main/forth#homebrew-6502-sbc---forth) to the 6809 CPU, running for now on my own [Emu6809](https://github.com/adumont/emu6809) emulator.
+
 - [Emu6809](https://github.com/adumont/emu6809): A Motorola 6809 emulator written in Forth.
 
 - [Emu6502](https://github.com/adumont/emu6502): A 65C02 emulator written in Forth. At the moment, it perfectly loads and runs both AlexMon and AlexForth roms, both written in 65C02 assembly.
