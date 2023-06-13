@@ -37,6 +37,8 @@ I love vintage calculators! Here's my humble collection:
   - [TI SR-50A](#ti-sr-50a)
   - [TI-33](#ti-33)
   - [TI-3500](#ti-3500)
+- [Original Odhner](#original-odhner)
+  - [Model 127](#original-odhner-model-127)
   
 
 # Hewlett Packard
@@ -244,3 +246,13 @@ The TI-3500 was introduced in Septembre 1972 (see [here](http://www.datamath.org
 ![](../assets/img/ti-3500/TI-3500.jpg)
 
 Manufacturing date and origin is unknown. I'd have to open it to find out some hints about it.
+
+# Original Odhner
+
+## Original Odhner Model 127
+
+I acquired this Original Odhner Model 127 in May 2023. It was made in 1952 in Sweden, although it's based on a design dating from 1875.
+
+![](../assets/img/odhner-model127.jpg)
+
+This is a manual mechanical calculator, capable of doing additions, substractions, multiplcations and division. One can also calculate square roots with it.
