@@ -179,7 +179,7 @@ The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color gra
 
 ## TI-92
 
-I acquired this TI-92 and its corresponding book in March 2023. It was originally bought in Oporto in November 1996, and served a mechanical engineer student there. This graphing calculator includes features like CAS or an Euclidian Geometry app.
+I acquired this TI-92 and its corresponding book in March 2023. It was originally bought in Oporto in November 1996, and served a mechanical engineer student there. This graphing calculator includes nice features like integrated CAS or a Euclidian Geometry app.
 
 ![](../assets/img/ti-92/20230310_132554.jpg)
 
