@@ -14,6 +14,7 @@ I love vintage calculators! Here's my humble collection:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
   - [HP 41C](#hp-41c)
+  - [HP 15C](#hp-15c)
   - [HP 12c](#hp-12c)
   - [HP 42s](#hp-42s)
   - [HP 50g](#hp-50g)
@@ -86,7 +87,15 @@ I also have:
 - the HP-67 Standard pac magnetic cards (no book)
 - 3 program card holders, full of written cards (content unknown yet)
 
-## HP 12c
+## HP 15C
+
+The HP-15C was the high-end scientific programmable calculator of the Voyager series. It had advanced scientific capabilities like a numerical root solver, numerical integration, as well as complex and matrix calculations.
+
+I acquired this complete unit with owner's handbook and box in August 2023. It was manufactured in USA in 1986.
+
+![](../assets/img/hp15c/hp15c.jpg)
+
+## HP 12C
 
 The HP 12c is the legendary programmable financial calculator of the HP Voyager series. In continual production since its introduction in 1981, it is HP's longest and best-selling product.
 
@@ -96,9 +105,11 @@ This HP-12c, with gold-colored plate, characteristic of the original models, was
 
 ## HP 42s
 
-The 42s was the successor of the 41C computer. I acquired this HP-42s in 2021. It was manufactured in Singapore in April 1992.
+The 42s was the successor of the 41C computer. It was the high-end scientific programmable calculator of the Pioneer series.
 
 ![](../assets/img/hp42s.jpg)
+
+I acquired this HP-42s in 2021. It was manufactured in Singapore in April 1992.
 
 ## HP 50g
 
