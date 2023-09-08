@@ -22,6 +22,7 @@ I love vintage calculators! Here's my humble collection:
   - [HP 48g+](#hp-48g)
   - [HP 48g](#hp-48g-1)
   - [HP 32s II](#hp-32s-ii)
+  - [HP 19Bii](#hp-19bii)
 - [Электроника](#электроника)
   - [Электроника MK-52](#электроника-mk-52)
 - [Casio](#casio)
@@ -140,6 +141,14 @@ It was manufactured in Singapore in February 1995. I acquired it in April 22. I 
 ![](../assets/img/hp32sII.jpg)
 
 It was manufactured in Singapore in May 1995.
+
+## HP 19Bii
+
+The HP-19Bii *Business Consultant* calculator included functions for solving financial calculations like time value of money, amortizing, interest rate conversion and cash flow. Business functionalities included percentage change, markup, currency exchange and unit conversions. It also had math capabilities such as trigonometry and graphing.
+
+![](../assets/img/HP19Bii.jpg)
+
+I acquired this calculator in September 2023, it was manufactured in Singapore in 1991.
 
 # Электроника
 
