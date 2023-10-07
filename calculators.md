@@ -17,12 +17,13 @@ I love vintage calculators! Here's my humble collection:
   - [HP 15C](#hp-15c)
   - [HP 12c](#hp-12c)
   - [HP 42s](#hp-42s)
+  - [HP 28s](#hp-28s)
   - [HP 50g](#hp-50g)
   - [HP Prime](#hp-prime)
   - [HP 48g+](#hp-48g)
   - [HP 48g](#hp-48g-1)
   - [HP 32s II](#hp-32s-ii)
-  - [HP 19Bii](#hp-19bii)
+  - [HP 19BII](#hp-19bii)
 - [Электроника](#электроника)
   - [Электроника MK-52](#электроника-mk-52)
 - [Casio](#casio)
@@ -112,6 +113,14 @@ The 42s was the successor of the 41C computer. It was the high-end scientific pr
 
 I acquired this HP-42s in 2021. It was manufactured in Singapore in April 1992.
 
+## HP 28s
+
+The HP-28S was marketed as an *Advanced Scientific Calculator*. The HP-28S did symbolic math, used named variables, understood many data types and was the first full RPL calculator. It had a solver, unit conversions and was also able to plot graphs. The UI wsa driven by menus, like later on the 48S. It featured an original clamshell design, and a 137×32 LCD dot matrix screen.
+
+![](../assets/img/hp28s/hp28s.jpg)
+
+I acquired this unit in Octobre 2023. It was made in the USA in december 1989.
+
 ## HP 50g
 
 I acquired this HP 50g Graphing calculator in June 2022. Previously it belonged to a spanish student in industrial engineering, who bought it from an electrical engineering student.
@@ -142,9 +151,9 @@ It was manufactured in Singapore in February 1995. I acquired it in April 22. I 
 
 It was manufactured in Singapore in May 1995.
 
-## HP 19Bii
+## HP 19BII
 
-The HP-19Bii *Business Consultant* calculator included functions for solving financial calculations like time value of money, amortizing, interest rate conversion and cash flow. Business functionalities included percentage change, markup, currency exchange and unit conversions. It also had math capabilities such as trigonometry and graphing.
+The HP-19B*II Business Consultant* calculator includes functions for solving financial calculations like time value of money, amortizing, interest rate conversion and cash flow. Business functionalities included percentage change, markup, currency exchange and unit conversions. It also has some scientific capabilities such as trigonometry and graphing.
 
 ![](../assets/img/HP19Bii.jpg)
 
