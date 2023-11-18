@@ -262,7 +262,7 @@ The SR-50A belongs to the Classic Second Generation family of Texas Instruments 
 
 ## TI-33
 
-This unit was made in Spain in 1979. Although it it powering on just fine with a 9V battery, it has the bouncing keys problem typical of these TI-30 family models.
+This unit was made in Spain in 1979. Although it is powering on fine with a 9V battery, it has the bouncing keys problem typical of these TI-30 family models.
 
 ![](../assets/img/ti-33/TI-33.jpg)
 
