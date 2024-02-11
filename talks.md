@@ -6,6 +6,19 @@ published: true
 comments: true
 ---
 
+## SKI Calculus, Minimal Formal Computation in AlexForth 6502
+
+Combinators were first introduced by Moses Schönfinkel in 1920. He invented and presented for the very first time a formalism for a turing-complete universal computation, 16 years before Alonso Church's Lambda Calculus and Alan Turing's Turing Machines.
+
+In this talk I quickly introduce the concepts of *Combinators* and *Application*, and I define the three S, K and I combinators that form the basis of the SKI Combinator Calculus. Then I dive into how to implement them in AlexForth. In this first part we implement SKI and booleans.
+
+![](../assets/img/SKIcalculusPart1cover.png)
+
+**Recording pending upload to Youtube**
+
+* [SKI Calculus: Minimal Formal Computation in AlexForth 6502 - Slides](../assets/slides/SKI_Calculus_AlexForth6502_Forth2020_240210.pdf)
+* [SKI words in AlexForth 6502](https://github.com/adumont/hb6502/blob/5b95a5cde4e8be2ad43f5f4ffe82f2d3fc0b84fe/forth/bootstrap.f#L235)
+
 ## Emu6502, a 65C02 emulator in Forth
 
 This is the recording of the presentation I gave to the FORTH2020 users meeting on Jan 21st, 2023 about how I implemented Emu6502, a 65C02 emulator written in Forth.
