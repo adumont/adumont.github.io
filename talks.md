@@ -12,10 +12,9 @@ Combinators were first introduced by Moses Schönfinkel in 1920. He invented and
 
 In this talk I quickly introduce the concepts of *Combinators* and *Application*, and I define the three S, K and I combinators that form the basis of the SKI Combinator Calculus. Then I dive into how to implement them in AlexForth. In this first part we implement SKI and booleans.
 
-![](../assets/img/SKIcalculusPart1cover.png)
+[![](../assets/img/SKIcalculusPart1cover.png)](https://www.youtube.com/watch?v=nIevWcXRlZU)
 
-**Recording pending upload to Youtube**
-
+* [Recording of the presentation during Forth2020 #42 meeting, February, 10th 2024](https://www.youtube.com/watch?v=nIevWcXRlZU)
 * [SKI Calculus: Minimal Formal Computation in AlexForth 6502 - Slides](../assets/slides/SKI_Calculus_AlexForth6502_Forth2020_240210.pdf)
 * [SKI words in AlexForth 6502](https://github.com/adumont/hb6502/blob/5b95a5cde4e8be2ad43f5f4ffe82f2d3fc0b84fe/forth/bootstrap.f#L235)
 
