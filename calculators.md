@@ -204,6 +204,12 @@ The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color gra
 
 ![](../assets/img/casiofx7000ga.jpg)
 
+## Casio FX-140
+
+Introduced in 1978, the Casio fx-140 is a scientific calculator with 10 digits precision and algebraic logic. It has 25 functions, 38 keys, and a VFD (vacuum fluorescent) display. The manufacturing date of this unit is unknown.
+
+![](../assets/img/casio-fx-140/casio-fx-140.jpg)
+
 # Texas Instruments
 
 ## TI-92
@@ -217,6 +223,14 @@ I acquired this TI-92 and its corresponding book in March 2023. It was originall
 This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
 
 ![](../assets/img/ti30galaxy.jpg)
+
+## TI-59
+
+Introduced in May 1977, the TI-59 is an early programmable calculator. Like its antcecesor teh SR-52, the TI-59 has an onboard magnetic card reader, and also a slot to add Solid State Software ("ROM Program Modules").
+
+![](../assets/img/ti-59/20240407_191930.jpg)
+
+I acquired this TI-59 in April 2024. It was assembled in Holland in 1977. With it, I have the original pouch, two books and a booklet (in french), the Master Library Module, and 4 magnetic cards. Unfortunately this unit is not working any more.
 
 ## TI-52
 
