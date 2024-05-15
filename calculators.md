@@ -96,11 +96,14 @@ I also have:
 
 ### HP-67 Application Pac
 
-I own the following HP-67/HP-97 application Pac, complete with box, user manual and complete card holder:
+I own the following HP-67/HP-97 application Pac, complete with box, user manual and cards in card holder:
 
 - Navigation Pac I
 - Business Decisions Pac
 - Stat Pac I
+
+![](../../assets/img/hp41c/20230324_172524-EDIT.jpg)
+
 
 ![](../../assets/img/hp41c/20230324_172603.jpg)
 
