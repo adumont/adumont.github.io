@@ -1,3 +1,4 @@
+# bundle config set path '~/.gem'
 all: serve
 
 install:
