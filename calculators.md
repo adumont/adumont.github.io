@@ -14,6 +14,8 @@ I love vintage calculators! Here's my humble collection:
 - [Hewlett Packard](#hewlett-packard)
   - [HP 48sx](#hp-48sx)
   - [HP 41C](#hp-41c)
+    - [Magnetic card reader](#magnetic-card-reader)
+    - [HP-67 Application Pac](#hp-67-application-pac)
   - [HP 15C](#hp-15c)
   - [HP 12C](#hp-12c)
   - [HP 42s](#hp-42s)
@@ -81,7 +83,7 @@ In addition to the HP-41C, I also have the following accesories:
 - Time module
 - X-Functions module
 
-### Magnetic card reader <!-- omit from toc -->
+### Magnetic card reader
 
 In July 2022 I acquired an HP-41C magnetic card reader (HP 82104A), manufactured in 1982 in Singapure. Despite being sold with a label that read "useless unrepairable", I managed to repair it by cleaning it and replacing the damaged wheel with o-rings.
 
@@ -91,6 +93,16 @@ I also have:
 - 5 blank magnetic cards
 - the HP-67 Standard pac magnetic cards (no book)
 - 3 program card holders, full of written cards (content unknown yet)
+
+### HP-67 Application Pac
+
+I own the following HP-67/HP-97 application Pac, complete with box, user manual and complete card holder:
+
+- Navigation Pac I
+- Business Decisions Pac
+- Stat Pac I
+
+![](../../assets/img/hp41c/20230324_172603.jpg)
 
 ## HP 15C
 
