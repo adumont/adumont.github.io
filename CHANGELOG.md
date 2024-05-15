@@ -24,6 +24,23 @@ This version has been in the works for a few years. It includes several new feat
 
 #### New parameters and settings
 
+- BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152)
+- BREAKING CHANGE: `google-scholar` social network link no longer requires the prefix `citations?user=`; if you previously set this parameter, it needs to be updated (#1189)  
+- Fixed bug where hovering over search results showed the text "{desc}" (#1156) 
+- Added social network links for GitLab, Bluesky (#1168, #1218)
+- Added instructions and example on how to fix image links in project sites (#1171)
+
+## v6.0.1 (2023-06-08)
+
+This version has been in the works for a few years. It includes several new features that were highly requested, numerous bug fixes, new documentation, and aggresively encourages migrating from the old Google Universal Analytics to the new Analytics 4.
+
+#### Breaking changes
+
+- As of July 2023, Google Universal Analytics is going away and being replaced by Google Analytics 4. Beautiful Jekyll sites that still use the old analytics tag will show a warning to encourage them to move to Analytics 4 (#1096).
+- More control over RSS feed sharing: previously, an RSS feed was *always* generated, and if the config setting `rss-description` was set then there was an RSS icon in the footer. Now, an RSS feed is only generated when the config setting `rss-description` exists, and an RSS footer icon is only shown if `rss: true` is set in the `social-network-links` config settings.
+
+#### New parameters and settings
+
 - Added `navbar-var-length` config setting that allows the navigation menu to be the same length as the longest sub-menu, so that long words in the submenu are not cut off (#765) 
 - Added `post_search` config setting that creates a Search button in the navbar (#770)
 - Added `edit_page_button` config setting that adds a "Edit page" button to the footer (to edit the current page on GitHub) (#1004)

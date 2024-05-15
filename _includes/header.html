@@ -32,8 +32,8 @@
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
           {% endif %}
-          
-          {% if include.type == "post" %} 
+
+          {% if include.type == "post" %}
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
@@ -55,6 +55,12 @@
   {% endif %}
   {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
 </div>
+
+{% if page.header-extra %}
+  {% for file in page.header-extra %}
+    {% include {{ file }} %}
+  {% endfor %}
+{% endif %}
 
 {% if page.header-extra %}
   {% for file in page.header-extra %}
