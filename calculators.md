@@ -15,7 +15,7 @@ I love vintage calculators! Here's my humble collection:
   - [HP 48sx](#hp-48sx)
   - [HP 41C](#hp-41c)
   - [HP 15C](#hp-15c)
-  - [HP 12c](#hp-12c)
+  - [HP 12C](#hp-12c)
   - [HP 42s](#hp-42s)
   - [HP 28s](#hp-28s)
   - [HP 50g](#hp-50g)
@@ -34,6 +34,7 @@ I love vintage calculators! Here's my humble collection:
   - [Casio FX-140](#casio-fx-140)
 - [Texas Instruments](#texas-instruments)
   - [TI-92](#ti-92)
+  - [TI-74 Basicalc](#ti-74-basicalc)
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-59](#ti-59)
   - [TI-52](#ti-52)
@@ -43,8 +44,8 @@ I love vintage calculators! Here's my humble collection:
   - [TI-33](#ti-33)
   - [TI-3500](#ti-3500)
 - [Original Odhner](#original-odhner)
-  - [Model 127](#original-odhner-model-127)
-  
+  - [Original Odhner Model 127](#original-odhner-model-127)
+
 
 # Hewlett Packard
 
@@ -80,7 +81,7 @@ In addition to the HP-41C, I also have the following accesories:
 - Time module
 - X-Functions module
 
-### Magnetic card reader
+### Magnetic card reader <!-- omit from toc -->
 
 In July 2022 I acquired an HP-41C magnetic card reader (HP 82104A), manufactured in 1982 in Singapure. Despite being sold with a label that read "useless unrepairable", I managed to repair it by cleaning it and replacing the damaged wheel with o-rings.
 
@@ -220,6 +221,12 @@ I acquired this TI-92 and its corresponding book in March 2023. It was originall
 
 ![](../assets/img/ti-92/20230310_132554.jpg)
 
+## TI-74 Basicalc
+
+I acquired this TI-74 Basicalc computer with its book in May 2024. It was manufactured in Nov. 1986 and its serial number is 0001556.
+
+![](../assets/img/ti-74-basicalc/20240502_155127.jpg)
+
 ## TI-30 Galaxy
 
 This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
@@ -232,7 +239,7 @@ Introduced in May 1977, the TI-59 is an early programmable calculator. Like its 
 
 ![](../assets/img/ti-59/20240407_191930.jpg)
 
-I acquired this TI-59 in April 2024. It was assembled in Holland in 1977. With it, I have the original pouch, two books and a booklet (in french), the Master Library Module, and 4 magnetic cards. Unfortunately this unit is not working any more.
+I acquired this TI-59 in April 2024. It was assembled in Holland in 1977. With it, I have the original pouch, two books and a booklet (in french), the Master Library Module, and 4 magnetic cards. Unfortunately this unit is not working any more (for now).
 
 ## TI-52
 
