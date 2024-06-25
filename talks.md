@@ -6,6 +6,8 @@ published: true
 comments: true
 ---
 
+These are talks I have given to the FORTH2020 user group, listed here in reverse chronological order (most recent first).
+
 ## SKI Calculus, Minimal Formal Computation in AlexForth 6502
 
 Combinators were first introduced by Moses Schönfinkel in 1920. He invented and presented for the very first time a formalism for a turing-complete universal computation, 16 years before Alonso Church's Lambda Calculus and Alan Turing's Turing Machines.
