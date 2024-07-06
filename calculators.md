@@ -10,22 +10,24 @@ image_sliders:
   - slider_mk52
 ---
 
-I love vintage calculators! Here's my humble collection:
+I love vintage calculators! Here's my humble collection, from which I would highlight, from my [Hewlett Packard](#hewlett-packard) calculators: two [HP-48sx](#hp-48sx), two [HP-41C](#hp-41c) with [Magnetic card reader](#magnetic-card-reader) and 3 complete [HP-67 Application Pac](#hp-67-application-pac) in original box, a [HP-15C](#hp-15c) with box and a pristine [HP-16C](#hp-16c). I also have a soviet [Электроника MK-52](#электроника-mk-52), as well as several [Casio](#casio) and [Texas Instruments](#texas-instruments) calculators and a mechanical [Original Odhner Model 127](#original-odhner-model-127) from 1952.
+
 - [Hewlett Packard](#hewlett-packard)
-  - [HP 48sx](#hp-48sx)
-  - [HP 41C](#hp-41c)
+  - [HP-48sx](#hp-48sx)
+  - [HP-41C](#hp-41c)
     - [Magnetic card reader](#magnetic-card-reader)
     - [HP-67 Application Pac](#hp-67-application-pac)
-  - [HP 15C](#hp-15c)
-  - [HP 12C](#hp-12c)
-  - [HP 42s](#hp-42s)
-  - [HP 28s](#hp-28s)
-  - [HP 50g](#hp-50g)
-  - [HP Prime](#hp-prime)
-  - [HP 48g+](#hp-48g)
-  - [HP 48g](#hp-48g-1)
-  - [HP 32s II](#hp-32s-ii)
-  - [HP 19BII](#hp-19bii)
+  - [HP-15C](#hp-15c)
+  - [HP-16C](#hp-16c)
+  - [HP-12C](#hp-12c)
+  - [HP-42s](#hp-42s)
+  - [HP-28s](#hp-28s)
+  - [HP-50g](#hp-50g)
+  - [HP-Prime](#hp-prime)
+  - [HP-48g+](#hp-48g)
+  - [HP-48g](#hp-48g-1)
+  - [HP-32s II](#hp-32s-ii)
+  - [HP-19BII](#hp-19bii)
 - [Электроника](#электроника)
   - [Электроника MK-52](#электроника-mk-52)
 - [Casio](#casio)
@@ -54,9 +56,9 @@ I love vintage calculators! Here's my humble collection:
 This picture shows some of my HP's calculators:
 ![](../assets/img/hp-collection.jpeg)
 
-## HP 48sx
+## HP-48sx
 
-This HP 48sx was the one I studied engineering with. I must have bought it around 1993. Before this one, I owned an HP48s which I sold to buy this one because it was expandable. I also have a 128K memory card and the original user manual.
+This HP-48sx was the one I studied engineering with. I must have bought it around 1993. Before this one, I owned an HP48s which I sold to buy this one because it was expandable. I also have a 128K memory card and the original user manual.
 
 It was manufactured in Singapore in February 1993.
 
@@ -66,7 +68,7 @@ In 2022 I got a second HP-48sx with its original box, books and pouch. This one 
 
 ![](../assets/img/hp48sx2/hp48sx(2)+box+books.jpg)
 
-## HP 41C
+## HP-41C
 
 I acquired this HP-41C in July 2022. This one is a *fullnut*, *tall keys* model, manufactured in 1980 in Corvallis, Oregon (USA).
 
@@ -107,7 +109,7 @@ I own the following HP-67/HP-97 application Pac, complete with box, user manual 
 
 ![](../../assets/img/hp41c/20230324_172603.jpg)
 
-## HP 15C
+## HP-15C
 
 The HP-15C was the high-end scientific programmable calculator of the Voyager series. It had advanced scientific capabilities like a numerical root solver, numerical integration, as well as complex and matrix calculations.
 
@@ -115,15 +117,23 @@ I acquired this complete unit with owner's handbook and box in August 2023. It w
 
 ![](../assets/img/hp15c/hp15c.jpg)
 
-## HP 12C
+## HP-16C
 
-The HP 12c is the legendary programmable financial calculator of the HP Voyager series. In continual production since its introduction in 1981, it is HP's longest and best-selling product.
+The HP-16C Computer Scientist was a programmable pocket calculator specifically designed for use by computer programmers, to assist in debugging. It is a member of the HP-Voyager series. It was the only programmer's calculator ever produced by HP.
+
+I acquired this unit in pristine condition with owner's handbook in June 2024. It was manufactured in 1984 in Corvallis, Oregon (USA)
+
+![](../assets/img/hp16c/hp16c.jpg)
+
+## HP-12C
+
+The HP-12c is the legendary programmable financial calculator of the HP Voyager series. In continual production since its introduction in 1981, it is HP's longest and best-selling product.
 
 {% include slider.html selector="slider_hp12c" %}
 
 This HP-12c, with gold-colored plate, characteristic of the original models, was manufactured in October 1983 in Brazil. I acquired it in December 2021. I then acquired the book in April 2022.
 
-## HP 42s
+## HP-42s
 
 The 42s was the successor of the 41C computer. It was the high-end scientific programmable calculator of the Pioneer series.
 
@@ -131,7 +141,7 @@ The 42s was the successor of the 41C computer. It was the high-end scientific pr
 
 I acquired this HP-42s in 2021. It was manufactured in Singapore in April 1992.
 
-## HP 28s
+## HP-28s
 
 The HP-28S was marketed as an *Advanced Scientific Calculator*. The HP-28S did symbolic math, used named variables, understood many data types and was the first full RPL calculator. It had a solver, unit conversions and was also able to plot graphs. The UI wsa driven by menus, like later on the 48S. It featured an original clamshell design, and a 137×32 LCD dot matrix screen.
 
@@ -139,9 +149,9 @@ The HP-28S was marketed as an *Advanced Scientific Calculator*. The HP-28S did s
 
 I acquired this unit in Octobre 2023. It was made in the USA in december 1989.
 
-## HP 50g
+## HP-50g
 
-I acquired this HP 50g Graphing calculator in June 2022. Previously it belonged to a spanish student in industrial engineering, who bought it from an electrical engineering student.
+I acquired this HP-50g Graphing calculator in June 2022. Previously it belonged to a spanish student in industrial engineering, who bought it from an electrical engineering student.
 
 ![](../assets/img/hp50g/hp50g_pouch.jpg)
 
@@ -151,27 +161,27 @@ I acquired this HP Prime Graphing calculator in June 2022. I bought it from a st
 
 ![](../assets/img/prime/prime-booklet.jpg)
 
-## HP 48g+
+## HP-48g+
 
 ![](../assets/img/hp48g+/front.jpeg)
 
 This HP48g+ was manufactured in Indonesia in May 2001. It has a black LCD screen. I acquired it in May 22, with the 3 books.
 
-## HP 48g
+## HP-48g
 
 ![](../assets/img/hp48g.jpg)
 
 It was manufactured in Singapore in February 1995. I acquired it in April 22. I also have the "user guide" book.
 
-## HP 32s II
+## HP-32s II
 
 ![](../assets/img/hp32sII.jpg)
 
 It was manufactured in Singapore in May 1995.
 
-## HP 19BII
+## HP-19Bii
 
-The HP-19B*II Business Consultant* calculator includes functions for solving financial calculations like time value of money, amortizing, interest rate conversion and cash flow. Business functionalities included percentage change, markup, currency exchange and unit conversions. It also has some scientific capabilities such as trigonometry and graphing.
+The HP-19Bii *Business Consultant* calculator includes functions for solving financial calculations like time value of money, amortizing, interest rate conversion and cash flow. Business functionalities included percentage change, markup, currency exchange and unit conversions. It also has some scientific capabilities such as trigonometry and graphing.
 
 ![](../assets/img/HP19Bii.jpg)
 
