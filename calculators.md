@@ -260,15 +260,15 @@ This TI-30 Galaxy was my first scientific calculator. I got it in January 1987.
 
 ## TI-59
 
-Introduced in May 1977, the TI-59 is an early programmable calculator. Like its antcecesor teh SR-52, the TI-59 has an onboard magnetic card reader, and also a slot to add Solid State Software ("ROM Program Modules").
+Introduced in May 1977, the TI-59 is an early programmable calculator. Like its ancestor the SR-52, the TI-59 has an onboard magnetic card reader and also a slot to add one Solid State Software cardridge ("ROM Program Modules").
 
 ![](../assets/img/ti-59/20240407_191930.jpg)
 
-I acquired this TI-59 in April 2024. It was assembled in Holland in 1977. With it, I have the original pouch, two books and a booklet (in french), the Master Library Module, and 4 magnetic cards. Unfortunately this unit is not working any more (for now).
+I acquired this TI-59 in April 2024. It was assembled in Holland in 1977. With it, I have the original pouch, two books and a booklet (in french), the Master Library Module, and 4 magnetic cards. Unfortunately this unit is not functional anymore at the moment.
 
 ## TI-52
 
-The TI-52 adds base arithmetics and conversion, as well as complex numbers.
+Similar to the TI-30 Galaxy, the TI-52 adds base arithmetics and conversion, as well as simple operations with complex numbers.
 
 ![](../assets/img/ti-52.2.jpg)
 
