@@ -248,7 +248,7 @@ I acquired this TI-92 and its corresponding book in March 2023. It was originall
 
 ## TI-74 Basicalc
 
-I acquired this TI-74 Basicalc computer with its book in May 2024. It was manufactured in Nov. 1986 and its serial number is 0001556.
+I acquired this TI-74 Basicalc computer with its book in May 2024. It was manufactured in Nov, 1986. Its serial number is quite low: 0001556.
 
 ![](../assets/img/ti-74-basicalc/20240502_155127.jpg)
 
