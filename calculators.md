@@ -42,6 +42,7 @@ I love vintage calculators! Here's my humble collection, from which I would high
   - [TI-30 Galaxy](#ti-30-galaxy)
   - [TI-59](#ti-59)
   - [TI-52](#ti-52)
+  - [TI-52 Solar](#ti-52-solar)
   - [TI Business Analyst](#ti-business-analyst)
   - [TI SR-50](#ti-sr-50)
   - [TI SR-50A](#ti-sr-50a)
@@ -273,6 +274,14 @@ Similar to the TI-30 Galaxy, the TI-52 adds base arithmetics and conversion, as 
 ![](../assets/img/ti-52.2.jpg)
 
 I acquired it in Oct. 2022.
+
+## TI-52 Solar
+
+The TI-52 Solar is a solar powered version of the TI-52.
+
+![](../assets/img/ti-52-solar.jpg)
+
+I acquired it in Nov. 2024.
 
 ## TI Business Analyst
 
