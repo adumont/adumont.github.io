@@ -8,12 +8,14 @@ comments: true
 
 I currently have the following antique and vintage sewing machines:
 
-- Winselman Saxonia, c. 1890, handcrank, with bentwood case + key
+- Winselmann Saxonia, c. 1890, handcrank, with bentwood case + key
 - 1901 Singer 15K30, Sphinx decals, with treadle (yet to be restored to working condition)
 - 1926 Singer 15K30, Sphinx decals
 - 1927 Singer 15K30, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
-- Singer 20-1, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
+- Singer 20, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
 - 1954 Singer Featherweight 222K, with case, some attachements, instruction manual, 2 case keys
+
+The Singer 15 is a full-size machine, while the Winselmann Saxonia and the Singer Featherweight 222K are half-size machines. The Singer 20 is even smaller.
 
 I also have the following attachements and accessories:
 
