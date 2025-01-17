@@ -8,7 +8,7 @@ comments: true
 
 I currently have the following antique and vintage sewing machines:
 
-- Winselmann Saxonia, made in Altenburg, Saxony c. 1890, handcrank fiddle base, with bentwood case + key
+- Winselmann Saxonia, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
 - 1901 Singer 15K30, Sphinx decals, with treadle (yet to be restored to working condition)
 - 1926 Singer 15K30, Sphinx decals
 - 1927 Singer 15K30, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
