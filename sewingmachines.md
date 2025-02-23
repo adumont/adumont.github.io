@@ -6,6 +6,8 @@ published: true
 comments: true
 ---
 
+[![](../assets/img/vsm/222K/SingerFeatherweight222K.jpg)]()
+
 I currently have the following antique and vintage sewing machines:
 
 - Winselmann Saxonia, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
@@ -27,6 +29,12 @@ I also have the following attachements and accessories:
 - Tall Singer Oil Can
 - Singer tin can oiler (36569) with spout and thumb pump
 - Original Motor Lubricant tube
+
+Finally, I have these books, related to Singer and sewing:
+
+- Singer sewing book, by Mary Brooks Picken (1949), Singer Sewing Machine Company
+- Instrucciones para bordar con la maquina Singer para cocer, 1914. (spanish edition of Singer instructions for art embroidery and lace work)
+- Lista de piezas de las maquinas Singer 18 (Singer 18 part list, spanish edition), 1927
 
 ## Winselmann "Saxonia"
 
