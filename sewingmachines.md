@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sewing Machines
-subtitle: My sewing machine collection
+# subtitle: My sewing machine collection
 published: true
 comments: true
 ---
