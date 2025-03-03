@@ -36,6 +36,18 @@ Finally, I have these books, related to Singer and sewing:
 - Instrucciones para bordar con la maquina Singer para cocer, 1914. (spanish edition of Singer instructions for art embroidery and lace work)
 - Lista de piezas de las maquinas Singer 18 (Singer 18 part list, spanish edition), 1927
 
+## Singer Featherweight 222K
+
+[![](../assets/img/vsm/222K/Collage_Featherweight.jpg)]()
+
+I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
+
+- the case in perfect condition with 2 keys
+- singer #198997 0.3A foot controller with a 0.25A 220V motor
+- some (most) attachements
+- the instruction manual (in swedish)
+- two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each
+
 ## Winselmann "Saxonia"
 
 Winselmann "Saxonia", Made in Saxony c. 1890
