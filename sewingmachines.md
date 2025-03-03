@@ -38,7 +38,7 @@ Finally, I have these books, related to Singer and sewing:
 
 ## Singer Featherweight 222K
 
-[![](../assets/img/vsm/222K/Collage_Featherweight.jpg)]()
+[![](/assets/img/vsm/222K/Collage_Featherweight.png)]()
 
 I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 
@@ -48,9 +48,9 @@ I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 - the instruction manual (in swedish)
 - two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each.
 
-[![](../assets/img/vsm/222K/Motor.jpg)]()
+[![](/assets/img/vsm/222K/Motor.png)]()
 
-[![](../assets/img/vsm/222K/FootController.jpg)]()
+[![](/assets/img/vsm/222K/FootController.png)]()
 
 ## Winselmann "Saxonia"
 
