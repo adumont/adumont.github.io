@@ -46,7 +46,7 @@ I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 - singer #198997 Bakelite 0.3A foot controller (Style D1) with a 0.25A 220V motor
 - some (most) attachements
 - the instruction manual (in swedish)
-- two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each
+- two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each.
 
 [![](../assets/img/vsm/222K/Motor.jpg)]()
 
