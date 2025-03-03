@@ -48,6 +48,10 @@ I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 - the instruction manual (in swedish)
 - two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each
 
+[![](../assets/img/vsm/222K/Motor.jpg)]()
+
+[![](../assets/img/vsm/222K/FootController.jpg)]()
+
 ## Winselmann "Saxonia"
 
 Winselmann "Saxonia", Made in Saxony c. 1890
