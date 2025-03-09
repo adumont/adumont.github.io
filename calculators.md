@@ -237,7 +237,13 @@ The Casio cfx-9940GT+ (also called Graphe 60 in France) is a powerfull color gra
 
 Introduced in 1978, the Casio fx-140 is a scientific calculator with 10 digits precision and algebraic logic. It has 25 functions, 38 keys, and a VFD (vacuum fluorescent) display. The manufacturing date of this unit is unknown.
 
-![](../assets/img/casio-fx-140/casio-fx-140.jpg)
+![](../assets/img/casio-fx-140/casio-fx-140-2.jpg)
+
+## Casio FX-15
+
+Introduced in 1975, the Casio fx-15 is a scientific calculator with 8 digits precision and algebraic logic. It has 19 functions, 37 keys, and a VFD (vacuum fluorescent) display. The power source is 4xAA batteries. The manufacturing date of this unit is unknown.
+
+![](../assets/img/casio-fx-15/20250309_122349.jpg)
 
 # Texas Instruments
 
