@@ -64,6 +64,10 @@ Singer 20-1, made in USA, c. 1922-26
 
 [![](../assets/img/vsm/singer20/20240119_170434.jpg)]()
 
-## Singer 15
+## Singer 15K
 
-I have three Singer 15K30, all made in Kilbowie factory in scotland. They were manufactured in 1091, 1926 and 1927.
+I have three Singer 15K30, all made in the Kilbowie factory in Scotland. They were manufactured in 1091, 1926 and 1927.
+
+The one below, manufactured in 1927 is complete with treadle table, bentwood case (and key), attachement box and the original paperwork (receipt from 1929!)
+
+[![](../assets/img/vsm/singer15k/collage.png)]()
