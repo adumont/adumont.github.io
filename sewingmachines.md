@@ -21,22 +21,22 @@ The Singer 15 is a full-size machine, while the Winselmann Saxonia and the Singe
 
 I also own the following attachements and accessories:
 
-- Singer Buttonholer (160506), in green treasure cheast, complete with 5 buttonhole templates, c. 1948
-- Singer Swissmade Automatic Zigzagger (160990), complete with case, instruction manual and all 5 cams 
-- Singer Swissmade Automatic Zigzagger (160991), with shell, case, instruction manual and all 10 cams
-- German Original Felin Zick-Zack Nähfuß, c. 1920-1930, in its original box and instructions leaflet
-- Singer Embroidery Hoop for class 222K machines, in its original box
-- Small Singer Oil Can
-- Tall Singer Oil Can
-- Singer tin can oiler (36569) with spout and thumb pump
-- Original Singer Motor Lubricant tube
+- Singer Buttonholer (160506), in green treasure cheast, complete with 5 buttonhole templates, c. 1948,
+- Singer Swissmade Automatic Zigzagger (160990), complete with case, instruction manual and all 5 cams,
+- Singer Swissmade Automatic Zigzagger (160991), with shell, case, instruction manual and all 10 cams,
+- German Original Felin Zick-Zack Nähfuß, c. 1920-1930, in its original box and instructions leaflet,
+- Singer Embroidery Hoop for class 222K machines, in its original box,
+- Small Singer Oil Can,
+- Tall Singer Oil Can,
+- Singer tin can oiler (36569) with spout and thumb pump,
+- Original Singer Motor Lubricant tube,
 - Several Singer original presser feet: several hemmer feet, adjustable hemmer foot, ruffler foot, tucker foot, darning foot, adjustable cording foot...
 
 Finally, I have these books, related to Singer and sewing:
 
-- "Singer sewing book", by Mary Brooks Picken (1949), Singer Sewing Machine Company
-- "I"nstrucciones para bordar con la maquina Singer para cocer", 1914. (spanish edition of Singer instructions for art embroidery and lace work)
-- "Lista de piezas de las maquinas Singer 18" (Singer 18 part list, spanish edition), 1927
+- *Singer sewing book*, by Mary Brooks Picken (1949), Singer Sewing Machine Company
+- *Instrucciones para bordar con la maquina Singer para cocer*, 1914. (spanish edition of Singer instructions for art embroidery and lace work)
+- *Lista de piezas de las maquinas Singer 18* (Singer 18 part list, spanish edition), 1927
 
 ## Singer Featherweight 222K
 
@@ -45,10 +45,10 @@ Finally, I have these books, related to Singer and sewing:
 I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 
 - the case in perfect condition with 2 keys
-- singer #198997 Bakelite 0.3A foot controller (Style D1) with a 0.25A 220V motor
-- some (most) attachements
+- Singer #198997 Bakelite 0.3A foot controller (Style D1) with a 0.25A 220V motor
+- some (most?) attachements
 - the instruction manual (in swedish)
-- two original Singer 2020 (15x1) 3 size 14 needle packs, with 3 needles each.
+- two original Singer 2020 (15x1) size 14 needle packs, with 3 needles each.
 
 [![](/assets/img/vsm/222K/Motor.png)]()
 
