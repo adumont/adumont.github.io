@@ -22,7 +22,7 @@ The Singer 15 is a full-size machine, while the Winselmann Saxonia and the Singe
 I also own the following attachements and accessories:
 
 - Black Singer Buttonholer (160506), in green treasure chest, complete with 5 buttonhole templates, c. 1948,
-- Cream Singer Buttonholer (86718), in red treasure chest, with instructions, make in UK (c. 1960?),
+- Cream Singer Buttonholer (86718), in red treasure chest, with instructions, made in UK (c. 1960?),
 - Singer Swissmade Automatic Zigzagger (160990), complete with case, instruction manual and all 5 cams,
 - Singer Swissmade Automatic Zigzagger (160991), with shell, case, instruction manual and all 10 cams,
 - German Original Felin Zick-Zack Nähfuß, c. 1920-1930, in its original box and instructions leaflet,
