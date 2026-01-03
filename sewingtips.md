@@ -1,11 +1,11 @@
 ---
 layout: page
-title: My Sewing Tips
+# title: Sewing Tips
 # subtitle: My Sewing Tips
 published: true
 comments: true
 ---
-# Sewing Tips
+Beginners usually always ask the same question over and over again. This are some of my sewing tip that should help.
 
 ## Read your sewing machine instruction manual
 
@@ -31,7 +31,7 @@ To pick the bobin thread,just apply the same rules: Start with the thread take u
 
 The trick is: your machine is a lock stich machine. When the take up lever is in its highest position the stich is formed and "locked". Otherwise, it's not.
 
-## Starting and Ending the stiches
+## Starting and finishing sewing
 
 - Always start stitching with the *thread take up lever* in its highest position.
 - When starting to sew: hold your tails for the 3-4 first stiches
@@ -43,8 +43,8 @@ The trick is: your machine is a lock stich machine. When the take up lever is in
 You'll hear people quickly say: check your tension!, check your timing! But it's **unlikely** the cause!
 
 The likely cause for thread bunching / thread nests, under your fabric when you sew are:
-- Machine incorrectly threaded
-- Needle installed incorrectly
+- the machine is incorrectly threaded
+- the needle is installed incorrectly
 
 
 ## Sewing strech fabric
