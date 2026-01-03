@@ -28,6 +28,7 @@ navbar-links:
   Collections:
     - Calculators: "calculators"
     - Sewing Machines: "sewingmachines"
+  Sewing Tips: "sewintips"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
