@@ -10,10 +10,10 @@ comments: true
 
 I currently own the following antique and vintage sewing machines:
 
-- 1954 Singer Featherweight 222K, with case, some attachements, instruction manual, 2 case keys (this isthe one I usually use)
-- Winselmann Saxonia, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
-- 1927 Singer 15K30, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
-- Singer 20, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
+- 1954 **Singer Featherweight 222K**, with case, some attachements, instruction manual, 2 case keys (this isthe one I usually use)
+- **Winselmann Saxonia**, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
+- 1927 **Singer 15K30**, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
+- **Singer 20**, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
 - 1901 Singer 15K30, Sphinx decals, with treadle (yet to be restored to working condition)
 - 1926 Singer 15K30, Sphinx decals (only the head)
 
@@ -33,11 +33,17 @@ I also own the following attachements and accessories:
 - Original Singer Motor Lubricant tube,
 - Several Singer original presser feet: several hemmer feet, adjustable hemmer foot, ruffler foot, tucker foot, darning foot, adjustable cording foot...
 
-Finally, I have these books, related to Singer and sewing:
+I also have these antique/vintage books, related to Singer and sewing:
 
 - *Singer sewing book*, by Mary Brooks Picken (1949), Singer Sewing Machine Company
 - *Instrucciones para bordar con la maquina Singer para cocer*, 1914. (spanish edition of Singer instructions for art embroidery and lace work)
 - *Lista de piezas de las maquinas Singer 18* (Singer 18 part list, spanish edition), 1927
+- *Encyclopédie des ouvrages de dames*, by Thérèse Dillmont
+
+And some modern books:
+
+- *Pattern Magic*, volumes 1 to 4 by Tomoko Nakamichi
+- *Corte y Confección*, by Alison Smith
 
 ## Singer Featherweight 222K
 
