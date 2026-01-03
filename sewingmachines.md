@@ -10,9 +10,9 @@ comments: true
 
 I currently own the following antique and vintage sewing machines:
 
-- 1954 **Singer Featherweight 222K**, with case, some attachements, instruction manual, 2 case keys (this isthe one I usually use)
-- **Winselmann Saxonia**, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
+- 1954 **Singer Featherweight 222K**, with case, some attachements, instruction manual, 2 case keys (this is the one I normally use)
 - 1927 **Singer 15K30**, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
+- **Winselmann Saxonia**, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
 - **Singer 20**, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
 - 1901 Singer 15K30, Sphinx decals, with treadle (yet to be restored to working condition)
 - 1926 Singer 15K30, Sphinx decals (only the head)
@@ -21,10 +21,10 @@ The Singer 15 is a full-size machine, while the Winselmann Saxonia and the Singe
 
 I also own the following attachements and accessories:
 
-- Black Singer Buttonholer (160506), in green treasure chest, complete with 5 buttonhole templates, c. 1948, + 3D printed Eyelet template
-- Cream Singer Buttonholer (86718), in red treasure chest, with instructions, made in UK (c. 1960?),
-- Singer Swissmade Automatic Zigzagger (160990), complete with case, instruction manual and all 5 cams,
-- Singer Swissmade Automatic Zigzagger (160991), with shell, case, instruction manual and all 10 cams,
+- **Black Singer Buttonholer (#160506)**, in green treasure chest, complete with 5 buttonhole templates, c. 1948, + 3D printed Eyelet template
+- **Cream Singer Buttonholer (#86718)**, in red treasure chest, with instructions, made in UK (c. 1960?),
+- **Singer Swissmade Automatic Zigzagger (#160990)**, complete with case, instruction manual and all 5 cams,
+- **Singer Swissmade Automatic Zigzagger (#160991)**, with shell, case, instruction manual and all 10 cams,
 - German Original Felin Zick-Zack Nähfuß, c. 1920-1930, in its original box and instructions leaflet,
 - Singer Embroidery Hoop for class 222K machines, in its original box,
 - Small Singer Oil Can,
