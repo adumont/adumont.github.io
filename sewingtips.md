@@ -5,11 +5,11 @@ layout: page
 published: true
 comments: true
 ---
-Beginners usually always ask the same question over and over again. This are some of my sewing tip that should help.
+Here are some tips for sewing beginners.
 
 ## Read your sewing machine instruction manual
 
-Before starting to use your sewing machine, **read the instruction manual twice**, from cover to cover.
+Before starting to use your sewing machine, **read the instruction manual**. **Twice**, from cover to cover.
 
 If you don't have it, look it up online, it's very likely there is a copy available as PDF.
 
@@ -17,7 +17,7 @@ Every machine is different! They look similar, they work in a similar manner, bu
 
 ## Threading the machine
 
-Instructions on how to thread your machine will be found in the **instruction manual**. Read them carefully and follow them carefully, in order, don't miss any step. If you do your stiching will be afected and possibly it won't work as expected. One of the step will be to raise the presser foot! Always thread your machine with the presser foot up, as it will open the tension disks.
+Instructions on how to thread your machine will be found in the **instruction manual**. Read them carefully and follow them carefully, in order, don't miss any step. If you do miss any step, your stiching will be afected and possibly it won't work as expected. One crucial step is to raise the presser foot: always thread your machine with the presser foot up, as it will open the tension disks.
 
 ## Installing the needle
 
