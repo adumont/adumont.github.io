@@ -12,6 +12,7 @@ I currently own the following antique and vintage sewing machines:
 
 - 1954 **Singer Featherweight 222K**, with case, some attachements, instruction manual, 2 case keys (this is the one I normally use)
 - 1927 **Singer 15K30**, Sphinx decals, with treadle, original paper work, instructions manual and bentwood case + key
+- 1951 **Elna #1 Grasshopper**, in case with the accessory  box (some are missing)
 - **Winselmann Saxonia**, made in Altenburg, Saxony c. 1890, Hand-crank fiddle-base transverse shuttle, with bentwood case + key
 - **Singer 20**, made in USA c. 1922-26, with box and instruction manual (rev. 1923), with color spanish cover
 - 1901 Singer 15K30, Sphinx decals, with treadle (yet to be restored to working condition)
@@ -65,13 +66,13 @@ I have this pristine Singer Featherweight 222K, made in 1954 in Scotland, with:
 
 Winselmann "Saxonia", Made in Saxony c. 1890
 
-[![](../assets/img/vsm/saxonia/20240202_165749.jpg)]()
+[![](/assets/img/vsm/saxonia/20240202_165749.jpg)]()
 
 ## Singer 20
 
 Singer 20-1, made in USA, c. 1922-26
 
-[![](../assets/img/vsm/singer20/20240119_170434.jpg)]()
+[![](/assets/img/vsm/singer20/20240119_170434.jpg)]()
 
 ## Singer 15K
 
@@ -79,4 +80,10 @@ I have three Singer 15K30, all made in the Kilbowie factory in Scotland. They we
 
 The one below, manufactured in 1927 is complete with treadle table, bentwood case (and key), attachement box and the original paperwork (receipt from 1929!)
 
-[![](../assets/img/vsm/singer15k/collage.png)]()
+[![](/assets/img/vsm/singer15k/collage.png)]()
+
+## Elna #1 Grasshopper
+
+I acquired this Elna #1 Grasshopper in September 2026. It was manufactured in Switzerland in august 1951. It had been stored in a house in Asturias, Spain for more than 30 years.
+
+[![](/assets/img/vsm/elna1/20260920_135431-EDIT.jpg)]()
